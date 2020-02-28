@@ -1,0 +1,2262 @@
+Country,Spending,Unit,Year,Value
+Argentina,Population,Current,2010,40.79
+Argentina,GDP,Current,2010,424
+Argentina,Edu,PercentGDP,2010,5.01971
+Argentina,Edu,Current,2010,21.26
+Argentina,Edu,Percapita,2010,521.35
+Argentina,Edu,Change,2010,NA
+Argentina,Edu,Percentchange,2010,NA
+Argentina,Military,PercentGDP,2010,0.814878105
+Argentina,Military,Current,2010,3.48
+Argentina,Military,Percapita,2010,0
+Argentina,Military,Change,2010,NA
+Argentina,Military,Percentchange,2010,NA
+Argentina,Healthcare,PercentGDP,2010,8.61198493
+Argentina,Healthcare,Current,2010,36.48
+Argentina,Healthcare,Percapita,2010,894.44
+Argentina,Healthcare,Change,2010,NA
+Argentina,Healthcare,Percentchange,2010,NA
+Australia,Population,Current,2010,22.03
+Australia,GDP,Current,2010,"1,146"
+Australia,Edu,PercentGDP,2010,5.55917
+Australia,Edu,Current,2010,63.72
+Australia,Edu,Percapita,2010,"2,892.00"
+Australia,Edu,Change,2010,NA
+Australia,Edu,Percentchange,2010,NA
+Australia,Military,PercentGDP,2010,1.862399774
+Australia,Military,Current,2010,23.22
+Australia,Military,Percapita,2010,0
+Australia,Military,Change,2010,NA
+Australia,Military,Percentchange,2010,NA
+Australia,Healthcare,PercentGDP,2010,8.44516726
+Australia,Healthcare,Current,2010,96.79
+Australia,Healthcare,Percapita,2010,"4,393.36"
+Australia,Healthcare,Change,2010,NA
+Australia,Healthcare,Percentchange,2010,NA
+Brazil,Population,Current,2010,195.71
+Brazil,GDP,Current,2010,"2,209"
+Brazil,Edu,PercentGDP,2010,5.6488
+Brazil,Edu,Current,2010,124.77
+Brazil,Edu,Percapita,2010,637.54
+Brazil,Edu,Change,2010,NA
+Brazil,Edu,Percentchange,2010,NA
+Brazil,Military,PercentGDP,2010,1.539406981
+Brazil,Military,Current,2010,34
+Brazil,Military,Percapita,2010,0
+Brazil,Military,Change,2010,NA
+Brazil,Military,Percentchange,2010,NA
+Brazil,Healthcare,PercentGDP,2010,9.723471
+Brazil,Healthcare,Current,2010,214.78
+Brazil,Healthcare,Percapita,2010,"1,097.41"
+Brazil,Healthcare,Change,2010,NA
+Brazil,Healthcare,Percentchange,2010,NA
+Canada,Population,Current,2010,34
+Canada,GDP,Current,2010,"1,614"
+Canada,Edu,PercentGDP,2010,5.36993
+Canada,Edu,Current,2010,86.65
+Canada,Edu,Percapita,2010,"2,548.05"
+Canada,Edu,Change,2010,NA
+Canada,Edu,Percentchange,2010,NA
+Canada,Military,PercentGDP,2010,1.197153652
+Canada,Military,Current,2010,19.32
+Canada,Military,Percapita,2010,0
+Canada,Military,Change,2010,NA
+Canada,Military,Percentchange,2010,NA
+Canada,Healthcare,PercentGDP,2010,10.55578315
+Canada,Healthcare,Current,2010,170.32
+Canada,Healthcare,Percapita,2010,"5,008.75"
+Canada,Healthcare,Change,2010,NA
+Canada,Healthcare,Percentchange,2010,NA
+China,Population,Current,2010,"1,337.71"
+China,GDP,Current,2010,"6,087"
+China,Edu,PercentGDP,2010,NA
+China,Edu,Current,2010,-
+China,Edu,Percapita,2010,-
+China,Edu,Change,2010,NA
+China,Edu,Percentchange,2010,NA
+China,Military,PercentGDP,2010,1.907436663
+China,Military,Current,2010,115.71
+China,Military,Percapita,2010,0
+China,Military,Change,2010,NA
+China,Military,Percentchange,2010,NA
+China,Healthcare,PercentGDP,2010,4.20799171
+China,Healthcare,Current,2010,256.15
+China,Healthcare,Percapita,2010,191.48
+China,Healthcare,Change,2010,NA
+China,Healthcare,Percentchange,2010,NA
+France,Population,Current,2010,65.03
+France,GDP,Current,2010,"2,643"
+France,Edu,PercentGDP,2010,5.69251
+France,Edu,Current,2010,150.43
+France,Edu,Percapita,2010,"2,313.34"
+France,Edu,Change,2010,NA
+France,Edu,Percentchange,2010,NA
+France,Military,PercentGDP,2010,2.33790694
+France,Military,Current,2010,61.78
+France,Military,Percapita,2010,0
+France,Military,Change,2010,NA
+France,Military,Percentchange,2010,NA
+France,Healthcare,PercentGDP,2010,11.17922993
+France,Healthcare,Current,2010,295.42
+France,Healthcare,Percapita,2010,"4,543.05"
+France,Healthcare,Change,2010,NA
+France,Healthcare,Percentchange,2010,NA
+Germany,Population,Current,2010,81.78
+Germany,GDP,Current,2010,"3,396"
+Germany,Edu,PercentGDP,2010,4.91368
+Germany,Edu,Current,2010,166.89
+Germany,Edu,Percapita,2010,"2,040.75"
+Germany,Edu,Change,2010,NA
+Germany,Edu,Percentchange,2010,NA
+Germany,Military,PercentGDP,2010,1.35365069
+Germany,Military,Current,2010,46.26
+Germany,Military,Percapita,2010,0
+Germany,Military,Change,2010,NA
+Germany,Military,Percentchange,2010,NA
+Germany,Healthcare,PercentGDP,2010,11.0039689
+Germany,Healthcare,Current,2010,373.73
+Germany,Healthcare,Percapita,2010,"4,570.16"
+Germany,Healthcare,Change,2010,NA
+Germany,Healthcare,Percentchange,2010,NA
+India,Population,Current,2010,"1,234.28"
+India,GDP,Current,2010,"1,676"
+India,Edu,PercentGDP,2010,3.37769
+India,Edu,Current,2010,56.6
+India,Edu,Percapita,2010,45.85
+India,Edu,Change,2010,NA
+India,Edu,Percentchange,2010,NA
+India,Military,PercentGDP,2010,2.707464042
+India,Military,Current,2010,46.09
+India,Military,Percapita,2010,0
+India,Military,Change,2010,NA
+India,Military,Percentchange,2010,NA
+India,Healthcare,PercentGDP,2010,3.27211934
+India,Healthcare,Current,2010,54.83
+India,Healthcare,Percapita,2010,44.42
+India,Healthcare,Change,2010,NA
+India,Healthcare,Percentchange,2010,NA
+Indonesia,Population,Current,2010,241.83
+Indonesia,GDP,Current,2010,755
+Indonesia,Edu,PercentGDP,2010,2.81228
+Indonesia,Edu,Current,2010,21.24
+Indonesia,Edu,Percapita,2010,87.81
+Indonesia,Edu,Change,2010,NA
+Indonesia,Edu,Percentchange,2010,NA
+Indonesia,Military,PercentGDP,2010,0.617587092
+Indonesia,Military,Current,2010,4.66
+Indonesia,Military,Percapita,2010,0
+Indonesia,Military,Change,2010,NA
+Indonesia,Military,Percentchange,2010,NA
+Indonesia,Healthcare,PercentGDP,2010,2.96089979
+Indonesia,Healthcare,Current,2010,22.36
+Indonesia,Healthcare,Percapita,2010,92.45
+Indonesia,Healthcare,Change,2010,NA
+Indonesia,Healthcare,Percentchange,2010,NA
+Italy,Population,Current,2010,59.28
+Italy,GDP,Current,2010,"2,134"
+Italy,Edu,PercentGDP,2010,4.35239
+Italy,Edu,Current,2010,92.88
+Italy,Edu,Percapita,2010,"1,566.88"
+Italy,Edu,Change,2010,NA
+Italy,Edu,Percentchange,2010,NA
+Italy,Military,PercentGDP,2010,1.506820911
+Italy,Military,Current,2010,32.02
+Italy,Military,Percapita,2010,0
+Italy,Military,Change,2010,NA
+Italy,Military,Percentchange,2010,NA
+Italy,Healthcare,PercentGDP,2010,8.95361182
+Italy,Healthcare,Current,2010,191.07
+Italy,Healthcare,Percapita,2010,"3,223.35"
+Italy,Healthcare,Change,2010,NA
+Italy,Healthcare,Percentchange,2010,NA
+Japan,Population,Current,2010,128.07
+Japan,GDP,Current,2010,"5,700"
+Japan,Edu,PercentGDP,2010,3.6395
+Japan,Edu,Current,2010,207.46
+Japan,Edu,Percapita,2010,"1,619.86"
+Japan,Edu,Change,2010,NA
+Japan,Edu,Percentchange,2010,NA
+Japan,Military,PercentGDP,2010,0.958851325
+Japan,Military,Current,2010,54.66
+Japan,Military,Percapita,2010,0
+Japan,Military,Change,2010,NA
+Japan,Military,Percentchange,2010,NA
+Japan,Healthcare,PercentGDP,2010,9.15677291
+Japan,Healthcare,Current,2010,521.95
+Japan,Healthcare,Percapita,2010,"4,075.47"
+Japan,Healthcare,Change,2010,NA
+Japan,Healthcare,Percentchange,2010,NA
+"Korea, Rep.",Population,Current,2010,49.55
+"Korea, Rep.",GDP,Current,2010,"1,094"
+"Korea, Rep.",Edu,PercentGDP,2010,NA
+"Korea, Rep.",Edu,Current,2010,-
+"Korea, Rep.",Edu,Percapita,2010,-
+"Korea, Rep.",Edu,Change,2010,NA
+"Korea, Rep.",Edu,Percentchange,2010,NA
+"Korea, Rep.",Military,PercentGDP,2010,2.574250696
+"Korea, Rep.",Military,Current,2010,28.18
+"Korea, Rep.",Military,Percapita,2010,0
+"Korea, Rep.",Military,Change,2010,NA
+"Korea, Rep.",Military,Percentchange,2010,NA
+"Korea, Rep.",Healthcare,PercentGDP,2010,6.24060133
+"Korea, Rep.",Healthcare,Current,2010,68.3
+"Korea, Rep.",Healthcare,Percapita,2010,"1,378.36"
+"Korea, Rep.",Healthcare,Change,2010,NA
+"Korea, Rep.",Healthcare,Percentchange,2010,NA
+Mexico,Population,Current,2010,114.09
+Mexico,GDP,Current,2010,"1,058"
+Mexico,Edu,PercentGDP,2010,5.15922
+Mexico,Edu,Current,2010,54.57
+Mexico,Edu,Percapita,2010,478.33
+Mexico,Edu,Change,2010,NA
+Mexico,Edu,Percentchange,2010,NA
+Mexico,Military,PercentGDP,2010,0.557495865
+Mexico,Military,Current,2010,5.9
+Mexico,Military,Percapita,2010,0
+Mexico,Military,Change,2010,NA
+Mexico,Military,Percentchange,2010,NA
+Mexico,Healthcare,PercentGDP,2010,5.75136576
+Mexico,Healthcare,Current,2010,60.84
+Mexico,Healthcare,Percapita,2010,533.23
+Mexico,Healthcare,Change,2010,NA
+Mexico,Healthcare,Percentchange,2010,NA
+Russian Federation,Population,Current,2010,142.85
+Russian Federation,GDP,Current,2010,"1,525"
+Russian Federation,Edu,PercentGDP,2010,NA
+Russian Federation,Edu,Current,2010,-
+Russian Federation,Edu,Percapita,2010,-
+Russian Federation,Edu,Change,2010,NA
+Russian Federation,Edu,Percentchange,2010,NA
+Russian Federation,Military,PercentGDP,2010,3.583859058
+Russian Federation,Military,Current,2010,58.72
+Russian Federation,Military,Percapita,2010,0
+Russian Federation,Military,Change,2010,NA
+Russian Federation,Military,Percentchange,2010,NA
+Russian Federation,Healthcare,PercentGDP,2010,4.95722385
+Russian Federation,Healthcare,Current,2010,75.59
+Russian Federation,Healthcare,Percapita,2010,529.18
+Russian Federation,Healthcare,Change,2010,NA
+Russian Federation,Healthcare,Percentchange,2010,NA
+Saudi Arabia,Population,Current,2010,27.42
+Saudi Arabia,GDP,Current,2010,528
+Saudi Arabia,Edu,PercentGDP,2010,NA
+Saudi Arabia,Edu,Current,2010,-
+Saudi Arabia,Edu,Percapita,2010,-
+Saudi Arabia,Edu,Change,2010,NA
+Saudi Arabia,Edu,Percentchange,2010,NA
+Saudi Arabia,Military,PercentGDP,2010,8.565677426
+Saudi Arabia,Military,Current,2010,45.24
+Saudi Arabia,Military,Percapita,2010,0
+Saudi Arabia,Military,Change,2010,NA
+Saudi Arabia,Military,Percentchange,2010,NA
+Saudi Arabia,Healthcare,PercentGDP,2010,3.65752606
+Saudi Arabia,Healthcare,Current,2010,19.32
+Saudi Arabia,Healthcare,Percapita,2010,704.53
+Saudi Arabia,Healthcare,Change,2010,NA
+Saudi Arabia,Healthcare,Percentchange,2010,NA
+South Africa,Population,Current,2010,51.22
+South Africa,GDP,Current,2010,375
+South Africa,Edu,PercentGDP,2010,5.72174
+South Africa,Edu,Current,2010,21.48
+South Africa,Edu,Percapita,2010,419.32
+South Africa,Edu,Change,2010,NA
+South Africa,Edu,Percentchange,2010,NA
+South Africa,Military,PercentGDP,2010,1.115808251
+South Africa,Military,Current,2010,4.19
+South Africa,Military,Percapita,2010,0
+South Africa,Military,Change,2010,NA
+South Africa,Military,Percentchange,2010,NA
+South Africa,Healthcare,PercentGDP,2010,7.41535412
+South Africa,Healthcare,Current,2010,27.83
+South Africa,Healthcare,Percapita,2010,543.44
+South Africa,Healthcare,Change,2010,NA
+South Africa,Healthcare,Percentchange,2010,NA
+Turkey,Population,Current,2010,72.33
+Turkey,GDP,Current,2010,772
+Turkey,Edu,PercentGDP,2010,NA
+Turkey,Edu,Current,2010,-
+Turkey,Edu,Percapita,2010,-
+Turkey,Edu,Change,2010,NA
+Turkey,Edu,Percentchange,2010,NA
+Turkey,Military,PercentGDP,2010,2.324125699
+Turkey,Military,Current,2010,17.94
+Turkey,Military,Percapita,2010,0
+Turkey,Military,Change,2010,NA
+Turkey,Military,Percentchange,2010,NA
+Turkey,Healthcare,PercentGDP,2010,5.053656
+Turkey,Healthcare,Current,2010,39.01
+Turkey,Healthcare,Percapita,2010,539.35
+Turkey,Healthcare,Change,2010,NA
+Turkey,Healthcare,Percentchange,2010,NA
+United Kingdom,Population,Current,2010,62.77
+United Kingdom,GDP,Current,2010,"2,475"
+United Kingdom,Edu,PercentGDP,2010,5.77046
+United Kingdom,Edu,Current,2010,142.83
+United Kingdom,Edu,Percapita,2010,"2,275.63"
+United Kingdom,Edu,Change,2010,NA
+United Kingdom,Edu,Percentchange,2010,NA
+United Kingdom,Military,PercentGDP,2010,2.36792473
+United Kingdom,Military,Current,2010,58.08
+United Kingdom,Military,Percapita,2010,0
+United Kingdom,Military,Change,2010,NA
+United Kingdom,Military,Percentchange,2010,NA
+United Kingdom,Healthcare,PercentGDP,2010,8.47407792
+United Kingdom,Healthcare,Current,2010,209.75
+United Kingdom,Healthcare,Percapita,2010,"3,341.82"
+United Kingdom,Healthcare,Change,2010,NA
+United Kingdom,Healthcare,Percentchange,2010,NA
+United States,Population,Current,2010,309.33
+United States,GDP,Current,2010,"14,992"
+United States,Edu,PercentGDP,2010,NA
+United States,Edu,Current,2010,-
+United States,Edu,Percapita,2010,-
+United States,Edu,Change,2010,NA
+United States,Edu,Percentchange,2010,NA
+United States,Military,PercentGDP,2010,4.657000923
+United States,Military,Current,2010,698.18
+United States,Military,Percapita,2010,0
+United States,Military,Change,2010,NA
+United States,Military,Percentchange,2010,NA
+United States,Healthcare,PercentGDP,2010,16.41288147
+United States,Healthcare,Current,2010,"2,460.63"
+United States,Healthcare,Percapita,2010,"7,954.80"
+United States,Healthcare,Change,2010,NA
+United States,Healthcare,Percentchange,2010,NA
+Argentina,Population,Current,2011,41.26
+Argentina,GDP,Current,2011,530
+Argentina,Edu,PercentGDP,2011,5.29063
+Argentina,Edu,Current,2011,28.05
+Argentina,Edu,Percapita,2011,679.79
+Argentina,Edu,Change,2011,6.78
+Argentina,Edu,Percentchange,2011,31.9
+Argentina,Military,PercentGDP,2011,0.764287094
+Argentina,Military,Current,2011,4.05
+Argentina,Military,Percapita,2011,0
+Argentina,Military,Change,2011,0.58
+Argentina,Military,Percentchange,2011,16.59
+Argentina,Healthcare,PercentGDP,2011,8.39473866
+Argentina,Healthcare,Current,2011,44.51
+Argentina,Healthcare,Percapita,2011,"1,078.63"
+Argentina,Healthcare,Change,2011,8.02
+Argentina,Healthcare,Percentchange,2011,21.99
+Australia,Population,Current,2011,22.34
+Australia,GDP,Current,2011,"1,397"
+Australia,Edu,PercentGDP,2011,5.08313
+Australia,Edu,Current,2011,70.99
+Australia,Edu,Percapita,2011,"3,177.86"
+Australia,Edu,Change,2011,7.28
+Australia,Edu,Percentchange,2011,11.42
+Australia,Military,PercentGDP,2011,1.769389864
+Australia,Military,Current,2011,26.6
+Australia,Military,Percapita,2011,0
+Australia,Military,Change,2011,3.38
+Australia,Military,Percentchange,2011,14.56
+Australia,Healthcare,PercentGDP,2011,8.55670577
+Australia,Healthcare,Current,2011,119.51
+Australia,Healthcare,Percapita,2011,"5,349.47"
+Australia,Healthcare,Change,2011,22.71
+Australia,Healthcare,Percentchange,2011,23.47
+Brazil,Population,Current,2011,197.51
+Brazil,GDP,Current,2011,"2,616"
+Brazil,Edu,PercentGDP,2011,5.73741
+Brazil,Edu,Current,2011,150.1
+Brazil,Edu,Percapita,2011,759.96
+Brazil,Edu,Change,2011,25.33
+Brazil,Edu,Percentchange,2011,20.3
+Brazil,Military,PercentGDP,2011,1.411851159
+Brazil,Military,Current,2011,36.94
+Brazil,Military,Percapita,2011,0
+Brazil,Military,Change,2011,2.93
+Brazil,Military,Percentchange,2011,8.63
+Brazil,Healthcare,PercentGDP,2011,9.7830923
+Brazil,Healthcare,Current,2011,255.95
+Brazil,Healthcare,Percapita,2011,"1,295.83"
+Brazil,Healthcare,Change,2011,41.17
+Brazil,Healthcare,Percentchange,2011,19.17
+Canada,Population,Current,2011,34.34
+Canada,GDP,Current,2011,"1,789"
+Canada,Edu,PercentGDP,2011,5.27444
+Canada,Edu,Current,2011,94.37
+Canada,Edu,Percapita,2011,"2,748.08"
+Canada,Edu,Change,2011,7.72
+Canada,Edu,Percentchange,2011,8.91
+Canada,Military,PercentGDP,2011,1.196084458
+Canada,Military,Current,2011,21.39
+Canada,Military,Percapita,2011,0
+Canada,Military,Change,2011,2.08
+Canada,Military,Percentchange,2011,10.76
+Canada,Healthcare,PercentGDP,2011,10.23029303
+Canada,Healthcare,Current,2011,183.03
+Canada,Healthcare,Percapita,2011,"5,330.17"
+Canada,Healthcare,Change,2011,12.71
+Canada,Healthcare,Percentchange,2011,7.46
+China,Population,Current,2011,"1,344.13"
+China,GDP,Current,2011,"7,552"
+China,Edu,PercentGDP,2011,NA
+China,Edu,Current,2011,-
+China,Edu,Percapita,2011,-
+China,Edu,Change,2011,0
+China,Edu,Percentchange,2011,#DIV/0!
+China,Military,PercentGDP,2011,1.834158275
+China,Military,Current,2011,137.97
+China,Military,Percapita,2011,0
+China,Military,Change,2011,22.26
+China,Military,Percentchange,2011,19.23
+China,Healthcare,PercentGDP,2011,4.32551324
+China,Healthcare,Current,2011,326.64
+China,Healthcare,Percapita,2011,243.01
+China,Healthcare,Change,2011,70.49
+China,Healthcare,Percentchange,2011,27.52
+France,Population,Current,2011,65.34
+France,GDP,Current,2011,"2,861"
+France,Edu,PercentGDP,2011,5.5183
+France,Edu,Current,2011,157.9
+France,Edu,Percapita,2011,"2,416.50"
+France,Edu,Change,2011,7.47
+France,Edu,Percentchange,2011,4.97
+France,Military,PercentGDP,2011,2.257661284
+France,Military,Current,2011,64.6
+France,Military,Percapita,2011,0
+France,Military,Change,2011,2.82
+France,Military,Percentchange,2011,4.56
+France,Healthcare,PercentGDP,2011,11.1942851
+France,Healthcare,Current,2011,320.31
+France,Healthcare,Percapita,2011,"4,902.06"
+France,Healthcare,Change,2011,24.89
+France,Healthcare,Percentchange,2011,8.43
+Germany,Population,Current,2011,80.27
+Germany,GDP,Current,2011,"3,744"
+Germany,Edu,PercentGDP,2011,4.8078
+Germany,Edu,Current,2011,180.02
+Germany,Edu,Percapita,2011,"2,242.59"
+Germany,Edu,Change,2011,13.14
+Germany,Edu,Percentchange,2011,7.87
+Germany,Military,PercentGDP,2011,1.281112196
+Germany,Military,Current,2011,48.14
+Germany,Military,Percapita,2011,0
+Germany,Military,Change,2011,1.88
+Germany,Military,Percentchange,2011,4.07
+Germany,Healthcare,PercentGDP,2011,10.71509959
+Germany,Healthcare,Current,2011,401.22
+Germany,Healthcare,Percapita,2011,"4,998.03"
+Germany,Healthcare,Change,2011,27.48
+Germany,Healthcare,Percentchange,2011,7.35
+India,Population,Current,2011,"1,250.29"
+India,GDP,Current,2011,"1,823"
+India,Edu,PercentGDP,2011,3.79618
+India,Edu,Current,2011,69.21
+India,Edu,Percapita,2011,55.35
+India,Edu,Change,2011,12.61
+India,Edu,Percentchange,2011,22.28
+India,Military,PercentGDP,2011,2.651496681
+India,Military,Current,2011,49.63
+India,Military,Percapita,2011,0
+India,Military,Change,2011,3.54
+India,Military,Percentchange,2011,7.69
+India,Healthcare,PercentGDP,2011,3.24634215
+India,Healthcare,Current,2011,59.18
+India,Healthcare,Percapita,2011,47.34
+India,Healthcare,Change,2011,4.35
+India,Healthcare,Percentchange,2011,7.94
+Indonesia,Population,Current,2011,245.12
+Indonesia,GDP,Current,2011,893
+Indonesia,Edu,PercentGDP,2011,3.18944
+Indonesia,Edu,Current,2011,28.48
+Indonesia,Edu,Percapita,2011,116.19
+Indonesia,Edu,Change,2011,7.25
+Indonesia,Edu,Percentchange,2011,34.12
+Indonesia,Military,PercentGDP,2011,0.653776703
+Indonesia,Military,Current,2011,5.84
+Indonesia,Military,Percapita,2011,0
+Indonesia,Military,Change,2011,1.17
+Indonesia,Military,Percentchange,2011,25.19
+Indonesia,Healthcare,PercentGDP,2011,2.95542027
+Indonesia,Healthcare,Current,2011,26.39
+Indonesia,Healthcare,Percapita,2011,107.67
+Indonesia,Healthcare,Change,2011,4.03
+Indonesia,Healthcare,Percentchange,2011,18.04
+Italy,Population,Current,2011,59.38
+Italy,GDP,Current,2011,"2,292"
+Italy,Edu,PercentGDP,2011,4.14407
+Italy,Edu,Current,2011,94.98
+Italy,Edu,Percapita,2011,"1,599.57"
+Italy,Edu,Change,2011,2.1
+Italy,Edu,Percentchange,2011,2.26
+Italy,Military,PercentGDP,2011,1.486135655
+Italy,Military,Current,2011,33.83
+Italy,Military,Percapita,2011,0
+Italy,Military,Change,2011,1.81
+Italy,Military,Percentchange,2011,5.65
+Italy,Healthcare,PercentGDP,2011,8.83464291
+Italy,Healthcare,Current,2011,202.49
+Italy,Healthcare,Percapita,2011,"3,410.09"
+Italy,Healthcare,Change,2011,11.42
+Italy,Healthcare,Percentchange,2011,5.98
+Japan,Population,Current,2011,127.83
+Japan,GDP,Current,2011,"6,157"
+Japan,Edu,PercentGDP,2011,3.64258
+Japan,Edu,Current,2011,224.29
+Japan,Edu,Percapita,2011,"1,754.56"
+Japan,Edu,Change,2011,16.84
+Japan,Edu,Percentchange,2011,8.12
+Japan,Military,PercentGDP,2011,0.986806293
+Japan,Military,Current,2011,60.76
+Japan,Military,Percapita,2011,0
+Japan,Military,Change,2011,6.11
+Japan,Military,Percentchange,2011,11.17
+Japan,Healthcare,PercentGDP,2011,10.61671765
+Japan,Healthcare,Current,2011,653.72
+Japan,Healthcare,Percapita,2011,"5,113.86"
+Japan,Healthcare,Change,2011,131.78
+Japan,Healthcare,Percentchange,2011,25.25
+"Korea, Rep.",Population,Current,2011,49.94
+"Korea, Rep.",GDP,Current,2011,"1,202"
+"Korea, Rep.",Edu,PercentGDP,2011,NA
+"Korea, Rep.",Edu,Current,2011,-
+"Korea, Rep.",Edu,Percapita,2011,-
+"Korea, Rep.",Edu,Change,2011,0
+"Korea, Rep.",Edu,Percentchange,2011,#DIV/0!
+"Korea, Rep.",Military,PercentGDP,2011,2.577345967
+"Korea, Rep.",Military,Current,2011,30.99
+"Korea, Rep.",Military,Percapita,2011,0
+"Korea, Rep.",Military,Change,2011,2.82
+"Korea, Rep.",Military,Percentchange,2011,10
+"Korea, Rep.",Healthcare,PercentGDP,2011,6.30238059
+"Korea, Rep.",Healthcare,Current,2011,75.78
+"Korea, Rep.",Healthcare,Percapita,2011,"1,517.60"
+"Korea, Rep.",Healthcare,Change,2011,7.48
+"Korea, Rep.",Healthcare,Percentchange,2011,10.95
+Mexico,Population,Current,2011,115.7
+Mexico,GDP,Current,2011,"1,180"
+Mexico,Edu,PercentGDP,2011,5.10565
+Mexico,Edu,Current,2011,60.27
+Mexico,Edu,Percapita,2011,520.95
+Mexico,Edu,Change,2011,5.7
+Mexico,Edu,Percentchange,2011,10.44
+Mexico,Military,PercentGDP,2011,0.548195294
+Mexico,Military,Current,2011,6.47
+Mexico,Military,Percapita,2011,0
+Mexico,Military,Change,2011,0.57
+Mexico,Military,Percentchange,2011,9.74
+Mexico,Healthcare,PercentGDP,2011,5.52097397
+Mexico,Healthcare,Current,2011,65.17
+Mexico,Healthcare,Percapita,2011,563.33
+Mexico,Healthcare,Change,2011,4.34
+Mexico,Healthcare,Percentchange,2011,7.13
+Russian Federation,Population,Current,2011,142.96
+Russian Federation,GDP,Current,2011,"2,052"
+Russian Federation,Edu,PercentGDP,2011,NA
+Russian Federation,Edu,Current,2011,-
+Russian Federation,Edu,Percapita,2011,-
+Russian Federation,Edu,Change,2011,0
+Russian Federation,Edu,Percentchange,2011,#DIV/0!
+Russian Federation,Military,PercentGDP,2011,3.423447933
+Russian Federation,Military,Current,2011,70.24
+Russian Federation,Military,Percapita,2011,0
+Russian Federation,Military,Change,2011,11.52
+Russian Federation,Military,Percentchange,2011,19.61
+Russian Federation,Healthcare,PercentGDP,2011,4.78151205
+Russian Federation,Healthcare,Current,2011,98.1
+Russian Federation,Healthcare,Percapita,2011,686.2
+Russian Federation,Healthcare,Change,2011,22.51
+Russian Federation,Healthcare,Percentchange,2011,29.77
+Saudi Arabia,Population,Current,2011,28.27
+Saudi Arabia,GDP,Current,2011,671
+Saudi Arabia,Edu,PercentGDP,2011,NA
+Saudi Arabia,Edu,Current,2011,-
+Saudi Arabia,Edu,Percapita,2011,-
+Saudi Arabia,Edu,Change,2011,0
+Saudi Arabia,Edu,Percentchange,2011,#DIV/0!
+Saudi Arabia,Military,PercentGDP,2011,7.230053324
+Saudi Arabia,Military,Current,2011,48.53
+Saudi Arabia,Military,Percapita,2011,0
+Saudi Arabia,Military,Change,2011,3.29
+Saudi Arabia,Military,Percentchange,2011,7.26
+Saudi Arabia,Healthcare,PercentGDP,2011,3.71178311
+Saudi Arabia,Healthcare,Current,2011,24.91
+Saudi Arabia,Healthcare,Percapita,2011,881.39
+Saudi Arabia,Healthcare,Change,2011,5.6
+Saudi Arabia,Healthcare,Percentchange,2011,28.96
+South Africa,Population,Current,2011,52
+South Africa,GDP,Current,2011,416
+South Africa,Edu,PercentGDP,2011,5.96275
+South Africa,Edu,Current,2011,24.83
+South Africa,Edu,Percapita,2011,477.46
+South Africa,Edu,Change,2011,3.35
+South Africa,Edu,Percentchange,2011,15.61
+South Africa,Military,PercentGDP,2011,1.103257676
+South Africa,Military,Current,2011,4.59
+South Africa,Military,Percapita,2011,0
+South Africa,Military,Change,2011,0.41
+South Africa,Military,Percentchange,2011,9.69
+South Africa,Healthcare,PercentGDP,2011,7.49731726
+South Africa,Healthcare,Current,2011,31.22
+South Africa,Healthcare,Percapita,2011,600.34
+South Africa,Healthcare,Change,2011,3.39
+South Africa,Healthcare,Percentchange,2011,12.17
+Turkey,Population,Current,2011,73.44
+Turkey,GDP,Current,2011,833
+Turkey,Edu,PercentGDP,2011,NA
+Turkey,Edu,Current,2011,-
+Turkey,Edu,Percapita,2011,-
+Turkey,Edu,Change,2011,0
+Turkey,Edu,Percentchange,2011,#DIV/0!
+Turkey,Military,PercentGDP,2011,2.078543276
+Turkey,Military,Current,2011,17.3
+Turkey,Military,Percapita,2011,0
+Turkey,Military,Change,2011,-0.63
+Turkey,Military,Percentchange,2011,-3.54
+Turkey,Healthcare,PercentGDP,2011,4.68789031
+Turkey,Healthcare,Current,2011,39.03
+Turkey,Healthcare,Percapita,2011,531.4
+Turkey,Healthcare,Change,2011,0.02
+Turkey,Healthcare,Percentchange,2011,0.05
+United Kingdom,Population,Current,2011,63.26
+United Kingdom,GDP,Current,2011,"2,659"
+United Kingdom,Edu,PercentGDP,2011,5.6462
+United Kingdom,Edu,Current,2011,150.15
+United Kingdom,Edu,Percapita,2011,"2,373.58"
+United Kingdom,Edu,Change,2011,7.32
+United Kingdom,Edu,Percentchange,2011,5.12
+United Kingdom,Military,PercentGDP,2011,2.287394211
+United Kingdom,Military,Current,2011,60.27
+United Kingdom,Military,Percapita,2011,0
+United Kingdom,Military,Change,2011,2.19
+United Kingdom,Military,Percentchange,2011,3.77
+United Kingdom,Healthcare,PercentGDP,2011,8.42210613
+United Kingdom,Healthcare,Current,2011,223.97
+United Kingdom,Healthcare,Percapita,2011,"3,540.53"
+United Kingdom,Healthcare,Change,2011,14.22
+United Kingdom,Healthcare,Percentchange,2011,6.78
+United States,Population,Current,2011,311.58
+United States,GDP,Current,2011,"15,543"
+United States,Edu,PercentGDP,2011,NA
+United States,Edu,Current,2011,-
+United States,Edu,Percapita,2011,-
+United States,Edu,Change,2011,0
+United States,Edu,Percentchange,2011,#DIV/0!
+United States,Military,PercentGDP,2011,4.576704253
+United States,Military,Current,2011,711.34
+United States,Military,Percapita,2011,0
+United States,Military,Change,2011,13.16
+United States,Military,Percentchange,2011,1.88
+United States,Healthcare,PercentGDP,2011,16.36738026
+United States,Healthcare,Current,2011,"2,543.91"
+United States,Healthcare,Percapita,2011,"8,164.56"
+United States,Healthcare,Change,2011,83.29
+United States,Healthcare,Percentchange,2011,3.38
+Argentina,Population,Current,2012,41.73
+Argentina,GDP,Current,2012,546
+Argentina,Edu,PercentGDP,2012,5.34583
+Argentina,Edu,Current,2012,29.19
+Argentina,Edu,Percapita,2012,699.38
+Argentina,Edu,Change,2012,1.14
+Argentina,Edu,Percentchange,2012,4.06
+Argentina,Military,PercentGDP,2012,0.784824721
+Argentina,Military,Current,2012,4.56
+Argentina,Military,Percapita,2012,0
+Argentina,Military,Change,2012,0.51
+Argentina,Military,Percentchange,2012,12.62
+Argentina,Healthcare,PercentGDP,2012,8.40588238
+Argentina,Healthcare,Current,2012,45.89
+Argentina,Healthcare,Percapita,2012,"1,099.71"
+Argentina,Healthcare,Change,2012,1.39
+Argentina,Healthcare,Percentchange,2012,3.12
+Australia,Population,Current,2012,22.73
+Australia,GDP,Current,2012,"1,546"
+Australia,Edu,PercentGDP,2012,4.87765
+Australia,Edu,Current,2012,75.42
+Australia,Edu,Percapita,2012,"3,317.39"
+Australia,Edu,Change,2012,4.42
+Australia,Edu,Percentchange,2012,6.23
+Australia,Military,PercentGDP,2012,1.679917358
+Australia,Military,Current,2012,26.22
+Australia,Military,Percapita,2012,0
+Australia,Military,Change,2012,-0.38
+Australia,Military,Percentchange,2012,-1.43
+Australia,Healthcare,PercentGDP,2012,8.68936294
+Australia,Healthcare,Current,2012,134.35
+Australia,Healthcare,Percapita,2012,"5,909.82"
+Australia,Healthcare,Change,2012,14.84
+Australia,Healthcare,Percentchange,2012,12.42
+Brazil,Population,Current,2012,199.29
+Brazil,GDP,Current,2012,"2,465"
+Brazil,Edu,PercentGDP,2012,5.8551
+Brazil,Edu,Current,2012,144.34
+Brazil,Edu,Percapita,2012,724.28
+Brazil,Edu,Change,2012,-5.76
+Brazil,Edu,Percentchange,2012,-3.84
+Brazil,Military,PercentGDP,2012,1.378656465
+Brazil,Military,Current,2012,33.99
+Brazil,Military,Percapita,2012,0
+Brazil,Military,Change,2012,-2.95
+Brazil,Military,Percentchange,2012,-7.98
+Brazil,Healthcare,PercentGDP,2012,10.03918369
+Brazil,Healthcare,Current,2012,247.48
+Brazil,Healthcare,Percapita,2012,"1,241.85"
+Brazil,Healthcare,Change,2012,-8.46
+Brazil,Healthcare,Percentchange,2012,-3.31
+Canada,Population,Current,2012,34.71
+Canada,GDP,Current,2012,"1,824"
+Canada,Edu,PercentGDP,2012,NA
+Canada,Edu,Current,2012,-
+Canada,Edu,Percapita,2012,-
+Canada,Edu,Change,2012,-94.37
+Canada,Edu,Percentchange,2012,-100
+Canada,Military,PercentGDP,2012,1.121099973
+Canada,Military,Current,2012,20.45
+Canada,Military,Percapita,2012,0
+Canada,Military,Change,2012,-0.94
+Canada,Military,Percentchange,2012,-4.4
+Canada,Healthcare,PercentGDP,2012,10.24045785
+Canada,Healthcare,Current,2012,186.78
+Canada,Healthcare,Percapita,2012,"5,380.58"
+Canada,Healthcare,Change,2012,3.75
+Canada,Healthcare,Percentchange,2012,2.05
+China,Population,Current,2012,"1,350.70"
+China,GDP,Current,2012,"8,532"
+China,Edu,PercentGDP,2012,NA
+China,Edu,Current,2012,-
+China,Edu,Percapita,2012,-
+China,Edu,Change,2012,0
+China,Edu,Percentchange,2012,#DIV/0!
+China,Military,PercentGDP,2012,1.83645176
+China,Military,Current,2012,157.39
+China,Military,Percapita,2012,0
+China,Military,Change,2012,19.42
+China,Military,Percentchange,2012,14.08
+China,Healthcare,PercentGDP,2012,4.549399
+China,Healthcare,Current,2012,388.17
+China,Healthcare,Percapita,2012,287.38
+China,Healthcare,Change,2012,61.52
+China,Healthcare,Percentchange,2012,18.84
+France,Population,Current,2012,65.66
+France,GDP,Current,2012,"2,684"
+France,Edu,PercentGDP,2012,5.45642
+France,Edu,Current,2012,146.44
+France,Edu,Percapita,2012,"2,230.30"
+France,Edu,Change,2012,-11.46
+France,Edu,Percentchange,2012,-7.26
+France,Military,PercentGDP,2012,2.236926011
+France,Military,Current,2012,60.04
+France,Military,Percapita,2012,0
+France,Military,Change,2012,-4.57
+France,Military,Percentchange,2012,-7.07
+France,Healthcare,PercentGDP,2012,11.3208963
+France,Healthcare,Current,2012,303.83
+France,Healthcare,Percapita,2012,"4,627.38"
+France,Healthcare,Change,2012,-16.48
+France,Healthcare,Percentchange,2012,-5.15
+Germany,Population,Current,2012,80.43
+Germany,GDP,Current,2012,"3,527"
+Germany,Edu,PercentGDP,2012,4.93331
+Germany,Edu,Current,2012,174.01
+Germany,Edu,Percapita,2012,"2,163.67"
+Germany,Edu,Change,2012,-6.01
+Germany,Edu,Percentchange,2012,-3.34
+Germany,Military,PercentGDP,2012,1.311261447
+Germany,Military,Current,2012,46.47
+Germany,Military,Percapita,2012,0
+Germany,Military,Change,2012,-1.67
+Germany,Military,Percentchange,2012,-3.47
+Germany,Healthcare,PercentGDP,2012,10.76729532
+Germany,Healthcare,Current,2012,379.8
+Germany,Healthcare,Percapita,2012,"4,722.36"
+Germany,Healthcare,Change,2012,-21.42
+Germany,Healthcare,Percentchange,2012,-5.34
+India,Population,Current,2012,"1,265.78"
+India,GDP,Current,2012,"1,828"
+India,Edu,PercentGDP,2012,3.8675
+India,Edu,Current,2012,70.68
+India,Edu,Percapita,2012,55.84
+India,Edu,Change,2012,1.48
+India,Edu,Percentchange,2012,2.14
+India,Military,PercentGDP,2012,2.537346604
+India,Military,Current,2012,47.22
+India,Military,Percapita,2012,0
+India,Military,Change,2012,-2.42
+India,Military,Percentchange,2012,-4.87
+India,Healthcare,PercentGDP,2012,3.32935296
+India,Healthcare,Current,2012,60.85
+India,Healthcare,Percapita,2012,48.07
+India,Healthcare,Change,2012,1.67
+India,Healthcare,Percentchange,2012,2.82
+Indonesia,Population,Current,2012,248.45
+Indonesia,GDP,Current,2012,918
+Indonesia,Edu,PercentGDP,2012,3.40748
+Indonesia,Edu,Current,2012,31.28
+Indonesia,Edu,Percapita,2012,125.88
+Indonesia,Edu,Change,2012,2.8
+Indonesia,Edu,Percentchange,2012,9.82
+Indonesia,Military,PercentGDP,2012,0.711549473
+Indonesia,Military,Current,2012,6.53
+Indonesia,Military,Percapita,2012,0
+Indonesia,Military,Change,2012,0.69
+Indonesia,Military,Percentchange,2012,11.87
+Indonesia,Healthcare,PercentGDP,2012,2.90286671
+Indonesia,Healthcare,Current,2012,26.64
+Indonesia,Healthcare,Percapita,2012,107.24
+Indonesia,Healthcare,Change,2012,0.25
+Indonesia,Healthcare,Percentchange,2012,0.96
+Italy,Population,Current,2012,59.54
+Italy,GDP,Current,2012,"2,087"
+Italy,Edu,PercentGDP,2012,4.08391
+Italy,Edu,Current,2012,85.23
+Italy,Edu,Percapita,2012,"1,431.55"
+Italy,Edu,Change,2012,-9.75
+Italy,Edu,Percentchange,2012,-10.26
+Italy,Military,PercentGDP,2012,1.4367373
+Italy,Military,Current,2012,29.78
+Italy,Military,Percapita,2012,0
+Italy,Military,Change,2012,-4.05
+Italy,Military,Percentchange,2012,-11.97
+Italy,Healthcare,PercentGDP,2012,8.95606116
+Italy,Healthcare,Current,2012,186.92
+Italy,Healthcare,Percapita,2012,"3,139.42"
+Italy,Healthcare,Change,2012,-15.57
+Italy,Healthcare,Percentchange,2012,-7.69
+Japan,Population,Current,2012,127.63
+Japan,GDP,Current,2012,"6,203"
+Japan,Edu,PercentGDP,2012,3.69226
+Japan,Edu,Current,2012,229.04
+Japan,Edu,Percapita,2012,"1,794.57"
+Japan,Edu,Change,2012,4.75
+Japan,Edu,Percentchange,2012,2.12
+Japan,Military,PercentGDP,2012,0.967427083
+Japan,Military,Current,2012,60.01
+Japan,Military,Percapita,2012,0
+Japan,Military,Change,2012,-0.75
+Japan,Military,Percentchange,2012,-1.24
+Japan,Healthcare,PercentGDP,2012,10.79065328
+Japan,Healthcare,Current,2012,669.37
+Japan,Healthcare,Percapita,2012,"5,244.63"
+Japan,Healthcare,Change,2012,15.65
+Japan,Healthcare,Percentchange,2012,2.39
+"Korea, Rep.",Population,Current,2012,50.2
+"Korea, Rep.",GDP,Current,2012,"1,223"
+"Korea, Rep.",Edu,PercentGDP,2012,NA
+"Korea, Rep.",Edu,Current,2012,-
+"Korea, Rep.",Edu,Percapita,2012,-
+"Korea, Rep.",Edu,Change,2012,0
+"Korea, Rep.",Edu,Percentchange,2012,#DIV/0!
+"Korea, Rep.",Military,PercentGDP,2012,2.612982317
+"Korea, Rep.",Military,Current,2012,31.95
+"Korea, Rep.",Military,Percapita,2012,0
+"Korea, Rep.",Military,Change,2012,0.96
+"Korea, Rep.",Military,Percentchange,2012,3.1
+"Korea, Rep.",Healthcare,PercentGDP,2012,6.43717494
+"Korea, Rep.",Healthcare,Current,2012,78.71
+"Korea, Rep.",Healthcare,Percapita,2012,"1,568.02"
+"Korea, Rep.",Healthcare,Change,2012,2.93
+"Korea, Rep.",Healthcare,Percentchange,2012,3.87
+Mexico,Population,Current,2012,117.27
+Mexico,GDP,Current,2012,"1,201"
+Mexico,Edu,PercentGDP,2012,5.1031
+Mexico,Edu,Current,2012,61.29
+Mexico,Edu,Percapita,2012,522.65
+Mexico,Edu,Change,2012,1.02
+Mexico,Edu,Percentchange,2012,1.69
+Mexico,Military,PercentGDP,2012,0.581036958
+Mexico,Military,Current,2012,6.98
+Mexico,Military,Percapita,2012,0
+Mexico,Military,Change,2012,0.51
+Mexico,Military,Percentchange,2012,7.84
+Mexico,Healthcare,PercentGDP,2012,5.66298734
+Mexico,Healthcare,Current,2012,68.02
+Mexico,Healthcare,Percapita,2012,579.99
+Mexico,Healthcare,Change,2012,2.84
+Mexico,Healthcare,Percentchange,2012,4.36
+Russian Federation,Population,Current,2012,143.2
+Russian Federation,GDP,Current,2012,"2,210"
+Russian Federation,Edu,PercentGDP,2012,3.78973
+Russian Federation,Edu,Current,2012,83.76
+Russian Federation,Edu,Percapita,2012,584.93
+Russian Federation,Edu,Change,2012,83.76
+Russian Federation,Edu,Percentchange,2012,#DIV/0!
+Russian Federation,Military,PercentGDP,2012,3.685968673
+Russian Federation,Military,Current,2012,81.47
+Russian Federation,Military,Percapita,2012,0
+Russian Federation,Military,Change,2012,11.23
+Russian Federation,Military,Percentchange,2012,15.99
+Russian Federation,Healthcare,PercentGDP,2012,4.93199479
+Russian Federation,Healthcare,Current,2012,109.01
+Russian Federation,Healthcare,Percapita,2012,761.23
+Russian Federation,Healthcare,Change,2012,10.91
+Russian Federation,Healthcare,Percentchange,2012,11.12
+Saudi Arabia,Population,Current,2012,29.16
+Saudi Arabia,GDP,Current,2012,736
+Saudi Arabia,Edu,PercentGDP,2012,NA
+Saudi Arabia,Edu,Current,2012,-
+Saudi Arabia,Edu,Percapita,2012,-
+Saudi Arabia,Edu,Change,2012,0
+Saudi Arabia,Edu,Percentchange,2012,#DIV/0!
+Saudi Arabia,Military,PercentGDP,2012,7.676602968
+Saudi Arabia,Military,Current,2012,56.5
+Saudi Arabia,Military,Percapita,2012,0
+Saudi Arabia,Military,Change,2012,7.97
+Saudi Arabia,Military,Percentchange,2012,16.42
+Saudi Arabia,Healthcare,PercentGDP,2012,4.01962965
+Saudi Arabia,Healthcare,Current,2012,29.58
+Saudi Arabia,Healthcare,Percapita,2012,"1,014.69"
+Saudi Arabia,Healthcare,Change,2012,4.67
+Saudi Arabia,Healthcare,Percentchange,2012,18.74
+South Africa,Population,Current,2012,52.83
+South Africa,GDP,Current,2012,396
+South Africa,Edu,PercentGDP,2012,6.37164
+South Africa,Edu,Current,2012,25.25
+South Africa,Edu,Percapita,2012,477.97
+South Africa,Edu,Change,2012,0.42
+South Africa,Edu,Percentchange,2012,1.7
+South Africa,Military,PercentGDP,2012,1.132793112
+South Africa,Military,Current,2012,4.49
+South Africa,Military,Percapita,2012,0
+South Africa,Military,Change,2012,-0.1
+South Africa,Military,Percentchange,2012,-2.28
+South Africa,Healthcare,PercentGDP,2012,7.7525506
+South Africa,Healthcare,Current,2012,30.73
+South Africa,Healthcare,Percapita,2012,581.56
+South Africa,Healthcare,Change,2012,-0.49
+South Africa,Healthcare,Percentchange,2012,-1.58
+Turkey,Population,Current,2012,74.65
+Turkey,GDP,Current,2012,874
+Turkey,Edu,PercentGDP,2012,NA
+Turkey,Edu,Current,2012,-
+Turkey,Edu,Percapita,2012,-
+Turkey,Edu,Change,2012,0
+Turkey,Edu,Percentchange,2012,#DIV/0!
+Turkey,Military,PercentGDP,2012,2.054760321
+Turkey,Military,Current,2012,17.96
+Turkey,Military,Percapita,2012,0
+Turkey,Military,Change,2012,0.65
+Turkey,Military,Percentchange,2012,3.78
+Turkey,Healthcare,PercentGDP,2012,4.47785046
+Turkey,Healthcare,Current,2012,39.14
+Turkey,Healthcare,Percapita,2012,524.23
+Turkey,Healthcare,Change,2012,0.11
+Turkey,Healthcare,Percentchange,2012,0.28
+United Kingdom,Population,Current,2012,63.7
+United Kingdom,GDP,Current,2012,"2,705"
+United Kingdom,Edu,PercentGDP,2012,NA
+United Kingdom,Edu,Current,2012,-
+United Kingdom,Edu,Percapita,2012,-
+United Kingdom,Edu,Change,2012,-150.15
+United Kingdom,Edu,Percentchange,2012,-100
+United Kingdom,Military,PercentGDP,2012,2.185441954
+United Kingdom,Military,Current,2012,58.5
+United Kingdom,Military,Percapita,2012,0
+United Kingdom,Military,Change,2012,-1.77
+United Kingdom,Military,Percentchange,2012,-2.94
+United Kingdom,Healthcare,PercentGDP,2012,8.33916884
+United Kingdom,Healthcare,Current,2012,225.57
+United Kingdom,Healthcare,Percapita,2012,"3,541.04"
+United Kingdom,Healthcare,Change,2012,1.6
+United Kingdom,Healthcare,Percentchange,2012,0.71
+United States,Population,Current,2012,313.87
+United States,GDP,Current,2012,"16,197"
+United States,Edu,PercentGDP,2012,NA
+United States,Edu,Current,2012,-
+United States,Edu,Percapita,2012,-
+United States,Edu,Change,2012,0
+United States,Edu,Percentchange,2012,#DIV/0!
+United States,Military,PercentGDP,2012,4.227818074
+United States,Military,Current,2012,684.78
+United States,Military,Percapita,2012,0
+United States,Military,Change,2012,-26.56
+United States,Military,Percentchange,2012,-3.73
+United States,Healthcare,PercentGDP,2012,16.36637753
+United States,Healthcare,Current,2012,"2,650.86"
+United States,Healthcare,Percapita,2012,"8,445.62"
+United States,Healthcare,Change,2012,106.95
+United States,Healthcare,Percentchange,2012,4.2
+Argentina,Population,Current,2013,42.2
+Argentina,GDP,Current,2013,552
+Argentina,Edu,PercentGDP,2013,5.43661
+Argentina,Edu,Current,2013,30.01
+Argentina,Edu,Percapita,2013,711.12
+Argentina,Edu,Change,2013,0.82
+Argentina,Edu,Percentchange,2013,2.82
+Argentina,Military,PercentGDP,2013,0.83773643
+Argentina,Military,Current,2013,5.14
+Argentina,Military,Percapita,2013,0
+Argentina,Military,Change,2013,0.57
+Argentina,Military,Percentchange,2013,12.6
+Argentina,Healthcare,PercentGDP,2013,8.37804641
+Argentina,Healthcare,Current,2013,46.25
+Argentina,Healthcare,Percapita,2013,"1,095.87"
+Argentina,Healthcare,Change,2013,0.35
+Argentina,Healthcare,Percentchange,2013,0.77
+Australia,Population,Current,2013,23.13
+Australia,GDP,Current,2013,"1,576"
+Australia,Edu,PercentGDP,2013,5.23801
+Australia,Edu,Current,2013,82.56
+Australia,Edu,Percapita,2013,"3,569.71"
+Australia,Edu,Change,2013,7.14
+Australia,Edu,Percentchange,2013,9.47
+Australia,Military,PercentGDP,2013,1.649533076
+Australia,Military,Current,2013,24.83
+Australia,Military,Percapita,2013,0
+Australia,Military,Change,2013,-1.39
+Australia,Military,Percentchange,2013,-5.31
+Australia,Healthcare,PercentGDP,2013,8.77363922
+Australia,Healthcare,Current,2013,138.29
+Australia,Healthcare,Percapita,2013,"5,979.24"
+Australia,Healthcare,Change,2013,3.94
+Australia,Healthcare,Percentchange,2013,2.93
+Brazil,Population,Current,2013,201.04
+Brazil,GDP,Current,2013,"2,473"
+Brazil,Edu,PercentGDP,2013,5.83885
+Brazil,Edu,Current,2013,144.38
+Brazil,Edu,Percapita,2013,718.2
+Brazil,Edu,Change,2013,0.04
+Brazil,Edu,Percentchange,2013,0.03
+Brazil,Military,PercentGDP,2013,1.329446109
+Brazil,Military,Current,2013,32.87
+Brazil,Military,Percapita,2013,0
+Brazil,Military,Change,2013,-1.11
+Brazil,Military,Percentchange,2013,-3.27
+Brazil,Healthcare,PercentGDP,2013,10.23850921
+Brazil,Healthcare,Current,2013,253.18
+Brazil,Healthcare,Percapita,2013,"1,259.37"
+Brazil,Healthcare,Change,2013,5.69
+Brazil,Healthcare,Percentchange,2013,2.3
+Canada,Population,Current,2013,35.08
+Canada,GDP,Current,2013,"1,842"
+Canada,Edu,PercentGDP,2013,NA
+Canada,Edu,Current,2013,-
+Canada,Edu,Percapita,2013,-
+Canada,Edu,Change,2013,0
+Canada,Edu,Percentchange,2013,#DIV/0!
+Canada,Military,PercentGDP,2013,1.004858419
+Canada,Military,Current,2013,18.52
+Canada,Military,Percapita,2013,0
+Canada,Military,Change,2013,-1.94
+Canada,Military,Percentchange,2013,-9.47
+Canada,Healthcare,PercentGDP,2013,10.13275665
+Canada,Healthcare,Current,2013,186.65
+Canada,Healthcare,Percapita,2013,"5,320.17"
+Canada,Healthcare,Change,2013,-0.14
+Canada,Healthcare,Percentchange,2013,-0.07
+China,Population,Current,2013,"1,357.38"
+China,GDP,Current,2013,"9,570"
+China,Edu,PercentGDP,2013,NA
+China,Edu,Current,2013,-
+China,Edu,Percapita,2013,-
+China,Edu,Change,2013,0
+China,Edu,Percentchange,2013,#DIV/0!
+China,Military,PercentGDP,2013,1.866943786
+China,Military,Current,2013,179.88
+China,Military,Percapita,2013,0
+China,Military,Change,2013,22.49
+China,Military,Percentchange,2013,14.29
+China,Healthcare,PercentGDP,2013,4.71002249
+China,Healthcare,Current,2013,450.77
+China,Healthcare,Percapita,2013,332.09
+China,Healthcare,Change,2013,62.6
+China,Healthcare,Percentchange,2013,16.13
+France,Population,Current,2013,66
+France,GDP,Current,2013,"2,811"
+France,Edu,PercentGDP,2013,5.50028
+France,Edu,Current,2013,154.62
+France,Edu,Percapita,2013,"2,342.73"
+France,Edu,Change,2013,8.18
+France,Edu,Percentchange,2013,5.58
+France,Military,PercentGDP,2013,2.220396951
+France,Military,Current,2013,62.42
+France,Military,Percapita,2013,0
+France,Military,Change,2013,2.38
+France,Military,Percentchange,2013,3.97
+France,Healthcare,PercentGDP,2013,11.44199369
+France,Healthcare,Current,2013,321.64
+France,Healthcare,Percapita,2013,"4,873.48"
+France,Healthcare,Change,2013,17.81
+France,Healthcare,Percentchange,2013,5.86
+Germany,Population,Current,2013,80.65
+Germany,GDP,Current,2013,"3,733"
+Germany,Edu,PercentGDP,2013,4.93497
+Germany,Edu,Current,2013,184.21
+Germany,Edu,Percapita,2013,"2,284.19"
+Germany,Edu,Change,2013,10.19
+Germany,Edu,Percentchange,2013,5.86
+Germany,Military,PercentGDP,2013,1.223993716
+Germany,Military,Current,2013,45.93
+Germany,Military,Percapita,2013,0
+Germany,Military,Change,2013,-0.54
+Germany,Military,Percentchange,2013,-1.16
+Germany,Healthcare,PercentGDP,2013,10.91510275
+Germany,Healthcare,Current,2013,407.43
+Germany,Healthcare,Percapita,2013,"5,052.14"
+Germany,Healthcare,Change,2013,27.63
+Germany,Healthcare,Percentchange,2013,7.28
+India,Population,Current,2013,"1,280.85"
+India,GDP,Current,2013,"1,857"
+India,Edu,PercentGDP,2013,3.84467
+India,Edu,Current,2013,71.38
+India,Edu,Percapita,2013,55.73
+India,Edu,Change,2013,0.7
+India,Edu,Percentchange,2013,0.99
+India,Military,PercentGDP,2013,2.472726714
+India,Military,Current,2013,47.4
+India,Military,Percapita,2013,0
+India,Military,Change,2013,0.19
+India,Military,Percentchange,2013,0.4
+India,Healthcare,PercentGDP,2013,3.74944184
+India,Healthcare,Current,2013,69.62
+India,Healthcare,Percapita,2013,54.35
+India,Healthcare,Change,2013,8.77
+India,Healthcare,Percentchange,2013,14.41
+Indonesia,Population,Current,2013,251.81
+Indonesia,GDP,Current,2013,913
+Indonesia,Edu,PercentGDP,2013,3.35904
+Indonesia,Edu,Current,2013,30.65
+Indonesia,Edu,Percapita,2013,121.73
+Indonesia,Edu,Change,2013,-0.62
+Indonesia,Edu,Percentchange,2013,-2
+Indonesia,Military,PercentGDP,2013,0.918769839
+Indonesia,Military,Current,2013,8.38
+Indonesia,Military,Percapita,2013,0
+Indonesia,Military,Change,2013,1.85
+Indonesia,Military,Percentchange,2013,28.37
+Indonesia,Healthcare,PercentGDP,2013,2.96065055
+Indonesia,Healthcare,Current,2013,27.02
+Indonesia,Healthcare,Percapita,2013,107.29
+Indonesia,Healthcare,Change,2013,0.37
+Indonesia,Healthcare,Percentchange,2013,1.4
+Italy,Population,Current,2013,60.23
+Italy,GDP,Current,2013,"2,141"
+Italy,Edu,PercentGDP,2013,4.16472
+Italy,Edu,Current,2013,89.18
+Italy,Edu,Percapita,2013,"1,480.56"
+Italy,Edu,Change,2013,3.95
+Italy,Edu,Percentchange,2013,4.63
+Italy,Military,PercentGDP,2013,1.406128172
+Italy,Military,Current,2013,29.96
+Italy,Military,Percapita,2013,0
+Italy,Military,Change,2013,0.18
+Italy,Military,Percentchange,2013,0.59
+Italy,Healthcare,PercentGDP,2013,8.95226727
+Italy,Healthcare,Current,2013,191.7
+Italy,Healthcare,Percapita,2013,"3,182.53"
+Italy,Healthcare,Change,2013,4.78
+Italy,Healthcare,Percentchange,2013,2.56
+Japan,Population,Current,2013,127.45
+Japan,GDP,Current,2013,"5,156"
+Japan,Edu,PercentGDP,2013,3.66538
+Japan,Edu,Current,2013,188.98
+Japan,Edu,Percapita,2013,"1,482.81"
+Japan,Edu,Change,2013,-40.06
+Japan,Edu,Percentchange,2013,-17.49
+Japan,Military,PercentGDP,2013,0.950865861
+Japan,Military,Current,2013,49.02
+Japan,Military,Percapita,2013,0
+Japan,Military,Change,2013,-10.99
+Japan,Military,Percentchange,2013,-18.31
+Japan,Healthcare,PercentGDP,2013,10.79159414
+Japan,Healthcare,Current,2013,556.38
+Japan,Healthcare,Percapita,2013,"4,365.68"
+Japan,Healthcare,Change,2013,-112.98
+Japan,Healthcare,Percentchange,2013,-16.88
+"Korea, Rep.",Population,Current,2013,50.43
+"Korea, Rep.",GDP,Current,2013,"1,306"
+"Korea, Rep.",Edu,PercentGDP,2013,NA
+"Korea, Rep.",Edu,Current,2013,-
+"Korea, Rep.",Edu,Percapita,2013,-
+"Korea, Rep.",Edu,Change,2013,0
+"Korea, Rep.",Edu,Percentchange,2013,#DIV/0!
+"Korea, Rep.",Military,PercentGDP,2013,2.62798705
+"Korea, Rep.",Military,Current,2013,34.31
+"Korea, Rep.",Military,Percapita,2013,0
+"Korea, Rep.",Military,Change,2013,2.36
+"Korea, Rep.",Military,Percentchange,2013,7.38
+"Korea, Rep.",Healthcare,PercentGDP,2013,6.57805915
+"Korea, Rep.",Healthcare,Current,2013,85.88
+"Korea, Rep.",Healthcare,Percapita,2013,"1,703.06"
+"Korea, Rep.",Healthcare,Change,2013,7.17
+"Korea, Rep.",Healthcare,Percentchange,2013,9.11
+Mexico,Population,Current,2013,118.83
+Mexico,GDP,Current,2013,"1,274"
+Mexico,Edu,PercentGDP,2013,4.69605
+Mexico,Edu,Current,2013,59.85
+Mexico,Edu,Percapita,2013,503.66
+Mexico,Edu,Change,2013,-1.44
+Mexico,Edu,Percentchange,2013,-2.36
+Mexico,Military,PercentGDP,2013,0.614983409
+Mexico,Military,Current,2013,7.84
+Mexico,Military,Percapita,2013,0
+Mexico,Military,Change,2013,0.86
+Mexico,Military,Percentchange,2013,12.31
+Mexico,Healthcare,PercentGDP,2013,5.81035295
+Mexico,Healthcare,Current,2013,74.05
+Mexico,Healthcare,Percapita,2013,623.17
+Mexico,Healthcare,Change,2013,6.03
+Mexico,Healthcare,Percentchange,2013,8.87
+Russian Federation,Population,Current,2013,143.51
+Russian Federation,GDP,Current,2013,"2,297"
+Russian Federation,Edu,PercentGDP,2013,3.75621
+Russian Federation,Edu,Current,2013,86.28
+Russian Federation,Edu,Percapita,2013,601.26
+Russian Federation,Edu,Change,2013,2.52
+Russian Federation,Edu,Percentchange,2013,3.01
+Russian Federation,Military,PercentGDP,2013,3.846232732
+Russian Federation,Military,Current,2013,88.35
+Russian Federation,Military,Percapita,2013,0
+Russian Federation,Military,Change,2013,6.88
+Russian Federation,Military,Percentchange,2013,8.45
+Russian Federation,Healthcare,PercentGDP,2013,5.07075241
+Russian Federation,Healthcare,Current,2013,116.48
+Russian Federation,Healthcare,Percapita,2013,811.68
+Russian Federation,Healthcare,Change,2013,7.47
+Russian Federation,Healthcare,Percentchange,2013,6.85
+Saudi Arabia,Population,Current,2013,30.05
+Saudi Arabia,GDP,Current,2013,747
+Saudi Arabia,Edu,PercentGDP,2013,NA
+Saudi Arabia,Edu,Current,2013,-
+Saudi Arabia,Edu,Percapita,2013,-
+Saudi Arabia,Edu,Change,2013,0
+Saudi Arabia,Edu,Percentchange,2013,#DIV/0!
+Saudi Arabia,Military,PercentGDP,2013,8.976127733
+Saudi Arabia,Military,Current,2013,67.02
+Saudi Arabia,Military,Percapita,2013,0
+Saudi Arabia,Military,Change,2013,10.52
+Saudi Arabia,Military,Percentchange,2013,18.62
+Saudi Arabia,Healthcare,PercentGDP,2013,4.46568786
+Saudi Arabia,Healthcare,Current,2013,33.34
+Saudi Arabia,Healthcare,Percapita,2013,"1,109.49"
+Saudi Arabia,Healthcare,Change,2013,3.76
+Saudi Arabia,Healthcare,Percentchange,2013,12.71
+South Africa,Population,Current,2013,53.69
+South Africa,GDP,Current,2013,367
+South Africa,Edu,PercentGDP,2013,6.01354
+South Africa,Edu,Current,2013,22.06
+South Africa,Edu,Percapita,2013,410.87
+South Africa,Edu,Change,2013,-3.19
+South Africa,Edu,Percentchange,2013,-12.65
+South Africa,Military,PercentGDP,2013,1.123274262
+South Africa,Military,Current,2013,4.12
+South Africa,Military,Percapita,2013,0
+South Africa,Military,Change,2013,-0.37
+South Africa,Military,Percentchange,2013,-8.27
+South Africa,Healthcare,PercentGDP,2013,7.72096153
+South Africa,Healthcare,Current,2013,28.32
+South Africa,Healthcare,Percapita,2013,527.53
+South Africa,Healthcare,Change,2013,-2.4
+South Africa,Healthcare,Percentchange,2013,-7.82
+Turkey,Population,Current,2013,75.93
+Turkey,GDP,Current,2013,951
+Turkey,Edu,PercentGDP,2013,NA
+Turkey,Edu,Current,2013,-
+Turkey,Edu,Percapita,2013,-
+Turkey,Edu,Change,2013,0
+Turkey,Edu,Percentchange,2013,#DIV/0!
+Turkey,Military,PercentGDP,2013,1.96325312
+Turkey,Military,Current,2013,18.66
+Turkey,Military,Percapita,2013,0
+Turkey,Military,Change,2013,0.7
+Turkey,Military,Percentchange,2013,3.92
+Turkey,Healthcare,PercentGDP,2013,4.40411751
+Turkey,Healthcare,Current,2013,41.86
+Turkey,Healthcare,Percapita,2013,551.37
+Turkey,Healthcare,Change,2013,2.73
+Turkey,Healthcare,Percentchange,2013,6.97
+United Kingdom,Population,Current,2013,64.13
+United Kingdom,GDP,Current,2013,"2,786"
+United Kingdom,Edu,PercentGDP,2013,5.58823
+United Kingdom,Edu,Current,2013,155.69
+United Kingdom,Edu,Percapita,2013,"2,427.78"
+United Kingdom,Edu,Change,2013,155.69
+United Kingdom,Edu,Percentchange,2013,#DIV/0!
+United Kingdom,Military,PercentGDP,2013,2.065024666
+United Kingdom,Military,Current,2013,56.86
+United Kingdom,Military,Percapita,2013,0
+United Kingdom,Military,Change,2013,-1.63
+United Kingdom,Military,Percentchange,2013,-2.79
+United Kingdom,Healthcare,PercentGDP,2013,9.77234704
+United Kingdom,Healthcare,Current,2013,272.26
+United Kingdom,Healthcare,Percapita,2013,"4,245.55"
+United Kingdom,Healthcare,Change,2013,46.69
+United Kingdom,Healthcare,Percentchange,2013,20.7
+United States,Population,Current,2013,316.06
+United States,GDP,Current,2013,"16,785"
+United States,Edu,PercentGDP,2013,4.93105
+United States,Edu,Current,2013,827.67
+United States,Edu,Percapita,2013,"2,618.73"
+United States,Edu,Change,2013,827.67
+United States,Edu,Percentchange,2013,#DIV/0!
+United States,Military,PercentGDP,2013,3.811198676
+United States,Military,Current,2013,639.7
+United States,Military,Percapita,2013,0
+United States,Military,Change,2013,-45.08
+United States,Military,Percentchange,2013,-6.58
+United States,Healthcare,PercentGDP,2013,16.33083781
+United States,Healthcare,Current,2013,"2,741.11"
+United States,Healthcare,Percapita,2013,"8,672.80"
+United States,Healthcare,Change,2013,90.24
+United States,Healthcare,Percentchange,2013,3.4
+Argentina,Population,Current,2014,42.67
+Argentina,GDP,Current,2014,526
+Argentina,Edu,PercentGDP,2014,5.36144
+Argentina,Edu,Current,2014,28.22
+Argentina,Edu,Percapita,2014,661.32
+Argentina,Edu,Change,2014,-1.79
+Argentina,Edu,Percentchange,2014,-5.97
+Argentina,Military,PercentGDP,2014,0.878100919
+Argentina,Military,Current,2014,4.98
+Argentina,Military,Percapita,2014,0
+Argentina,Military,Change,2014,-0.16
+Argentina,Military,Percentchange,2014,-3.09
+Argentina,Healthcare,PercentGDP,2014,8.23722377
+Argentina,Healthcare,Current,2014,43.35
+Argentina,Healthcare,Percapita,2014,"1,016.04"
+Argentina,Healthcare,Change,2014,-2.89
+Argentina,Healthcare,Percentchange,2014,-6.26
+Australia,Population,Current,2014,23.48
+Australia,GDP,Current,2014,"1,467"
+Australia,Edu,PercentGDP,2014,5.17368
+Australia,Edu,Current,2014,75.92
+Australia,Edu,Percapita,2014,"3,234.11"
+Australia,Edu,Change,2014,-6.64
+Australia,Edu,Percentchange,2014,-8.04
+Australia,Military,PercentGDP,2014,1.781294955
+Australia,Military,Current,2014,25.78
+Australia,Military,Percapita,2014,0
+Australia,Military,Change,2014,0.96
+Australia,Military,Percentchange,2014,3.86
+Australia,Healthcare,PercentGDP,2014,9.05467885
+Australia,Healthcare,Current,2014,132.88
+Australia,Healthcare,Percapita,2014,"5,660.15"
+Australia,Healthcare,Change,2014,-5.41
+Australia,Healthcare,Percentchange,2014,-3.91
+Brazil,Population,Current,2014,202.76
+Brazil,GDP,Current,2014,"2,456"
+Brazil,Edu,PercentGDP,2014,5.94848
+Brazil,Edu,Current,2014,146.09
+Brazil,Edu,Percapita,2014,720.52
+Brazil,Edu,Change,2014,1.71
+Brazil,Edu,Percentchange,2014,1.18
+Brazil,Military,PercentGDP,2014,1.330244423
+Brazil,Military,Current,2014,32.66
+Brazil,Military,Percapita,2014,0
+Brazil,Military,Change,2014,-0.22
+Brazil,Military,Percentchange,2014,-0.65
+Brazil,Healthcare,PercentGDP,2014,10.81982148
+Brazil,Healthcare,Current,2014,265.73
+Brazil,Healthcare,Percapita,2014,"1,310.56"
+Brazil,Healthcare,Change,2014,12.56
+Brazil,Healthcare,Percentchange,2014,4.96
+Canada,Population,Current,2014,35.44
+Canada,GDP,Current,2014,"1,801"
+Canada,Edu,PercentGDP,2014,NA
+Canada,Edu,Current,2014,-
+Canada,Edu,Percapita,2014,-
+Canada,Edu,Change,2014,0
+Canada,Edu,Percentchange,2014,#DIV/0!
+Canada,Military,PercentGDP,2014,0.99227056
+Canada,Military,Current,2014,17.85
+Canada,Military,Percapita,2014,0
+Canada,Military,Change,2014,-0.66
+Canada,Military,Percentchange,2014,-3.58
+Canada,Healthcare,PercentGDP,2014,9.96972621
+Canada,Healthcare,Current,2014,179.6
+Canada,Healthcare,Percapita,2014,"5,068.16"
+Canada,Healthcare,Change,2014,-7.04
+Canada,Healthcare,Percentchange,2014,-3.77
+China,Population,Current,2014,"1,364.27"
+China,GDP,Current,2014,"10,439"
+China,Edu,PercentGDP,2014,NA
+China,Edu,Current,2014,-
+China,Edu,Percapita,2014,-
+China,Edu,Change,2014,0
+China,Edu,Percentchange,2014,#DIV/0!
+China,Military,PercentGDP,2014,1.905848105
+China,Military,Current,2014,200.77
+China,Military,Percapita,2014,0
+China,Military,Change,2014,20.89
+China,Military,Percentchange,2014,11.61
+China,Healthcare,PercentGDP,2014,4.77322745
+China,Healthcare,Current,2014,498.25
+China,Healthcare,Percapita,2014,365.22
+China,Healthcare,Change,2014,47.49
+China,Healthcare,Percentchange,2014,10.53
+France,Population,Current,2014,66.32
+France,GDP,Current,2014,"2,852"
+France,Edu,PercentGDP,2014,5.51206
+France,Edu,Current,2014,157.21
+France,Edu,Percapita,2014,"2,370.66"
+France,Edu,Change,2014,2.6
+France,Edu,Percentchange,2014,1.68
+France,Military,PercentGDP,2014,2.230360063
+France,Military,Current,2014,63.61
+France,Military,Percapita,2014,0
+France,Military,Change,2014,1.2
+France,Military,Percentchange,2014,1.92
+France,Healthcare,PercentGDP,2014,11.59500673
+France,Healthcare,Current,2014,330.71
+France,Healthcare,Percapita,2014,"4,986.86"
+France,Healthcare,Change,2014,9.07
+France,Healthcare,Percentchange,2014,2.82
+Germany,Population,Current,2014,80.98
+Germany,GDP,Current,2014,"3,884"
+Germany,Edu,PercentGDP,2014,4.92086
+Germany,Edu,Current,2014,191.12
+Germany,Edu,Percapita,2014,"2,360.04"
+Germany,Edu,Change,2014,6.91
+Germany,Edu,Percentchange,2014,3.75
+Germany,Military,PercentGDP,2014,1.182505896
+Germany,Military,Current,2014,46.1
+Germany,Military,Percapita,2014,0
+Germany,Military,Change,2014,0.17
+Germany,Military,Percentchange,2014,0.37
+Germany,Healthcare,PercentGDP,2014,10.95738405
+Germany,Healthcare,Current,2014,425.58
+Germany,Healthcare,Percapita,2014,"5,255.16"
+Germany,Healthcare,Change,2014,18.14
+Germany,Healthcare,Percentchange,2014,4.45
+India,Population,Current,2014,"1,295.60"
+India,GDP,Current,2014,"2,039"
+India,Edu,PercentGDP,2014,NA
+India,Edu,Current,2014,-
+India,Edu,Percapita,2014,-
+India,Edu,Change,2014,-71.38
+India,Edu,Percentchange,2014,-100
+India,Military,PercentGDP,2014,2.496769881
+India,Military,Current,2014,50.91
+India,Military,Percapita,2014,0
+India,Military,Change,2014,3.51
+India,Military,Percentchange,2014,7.41
+India,Healthcare,PercentGDP,2014,3.61956552
+India,Healthcare,Current,2014,73.81
+India,Healthcare,Percapita,2014,56.97
+India,Healthcare,Change,2014,4.19
+India,Healthcare,Percentchange,2014,6.02
+Indonesia,Population,Current,2014,255.13
+Indonesia,GDP,Current,2014,891
+Indonesia,Edu,PercentGDP,2014,3.28801
+Indonesia,Edu,Current,2014,29.29
+Indonesia,Edu,Percapita,2014,114.8
+Indonesia,Edu,Change,2014,-1.36
+Indonesia,Edu,Percentchange,2014,-4.44
+Indonesia,Military,PercentGDP,2014,0.777855178
+Indonesia,Military,Current,2014,6.93
+Indonesia,Military,Percapita,2014,0
+Indonesia,Military,Change,2014,-1.45
+Indonesia,Military,Percentchange,2014,-17.35
+Indonesia,Healthcare,PercentGDP,2014,3.11712106
+Indonesia,Healthcare,Current,2014,27.77
+Indonesia,Healthcare,Percapita,2014,108.84
+Indonesia,Healthcare,Change,2014,0.75
+Indonesia,Healthcare,Percentchange,2014,2.78
+Italy,Population,Current,2014,60.79
+Italy,GDP,Current,2014,"2,159"
+Italy,Edu,PercentGDP,2014,4.07525
+Italy,Edu,Current,2014,87.99
+Italy,Edu,Percapita,2014,"1,447.46"
+Italy,Edu,Change,2014,-1.19
+Italy,Edu,Percentchange,2014,-1.33
+Italy,Military,PercentGDP,2014,1.287382528
+Italy,Military,Current,2014,27.7
+Italy,Military,Percapita,2014,0
+Italy,Military,Change,2014,-2.26
+Italy,Military,Percentchange,2014,-7.53
+Italy,Healthcare,PercentGDP,2014,9.01144092
+Italy,Healthcare,Current,2014,194.57
+Italy,Healthcare,Percapita,2014,"3,200.72"
+Italy,Healthcare,Change,2014,2.87
+Italy,Healthcare,Percentchange,2014,1.5
+Japan,Population,Current,2014,127.28
+Japan,GDP,Current,2014,"4,850"
+Japan,Edu,PercentGDP,2014,3.59059
+Japan,Edu,Current,2014,174.16
+Japan,Edu,Percapita,2014,"1,368.35"
+Japan,Edu,Change,2014,-14.82
+Japan,Edu,Percentchange,2014,-7.84
+Japan,Military,PercentGDP,2014,0.966999334
+Japan,Military,Current,2014,46.88
+Japan,Military,Percapita,2014,0
+Japan,Military,Change,2014,-2.14
+Japan,Military,Percentchange,2014,-4.37
+Japan,Healthcare,PercentGDP,2014,10.83205006
+Japan,Healthcare,Current,2014,525.4
+Japan,Healthcare,Percapita,2014,"4,128.03"
+Japan,Healthcare,Change,2014,-30.98
+Japan,Healthcare,Percentchange,2014,-5.57
+"Korea, Rep.",Population,Current,2014,50.75
+"Korea, Rep.",GDP,Current,2014,"1,411"
+"Korea, Rep.",Edu,PercentGDP,2014,NA
+"Korea, Rep.",Edu,Current,2014,-
+"Korea, Rep.",Edu,Percapita,2014,-
+"Korea, Rep.",Edu,Change,2014,0
+"Korea, Rep.",Edu,Percentchange,2014,#DIV/0!
+"Korea, Rep.",Military,PercentGDP,2014,2.660766488
+"Korea, Rep.",Military,Current,2014,37.55
+"Korea, Rep.",Military,Percapita,2014,0
+"Korea, Rep.",Military,Change,2014,3.24
+"Korea, Rep.",Military,Percentchange,2014,9.45
+"Korea, Rep.",Healthcare,PercentGDP,2014,6.82039351
+"Korea, Rep.",Healthcare,Current,2014,96.26
+"Korea, Rep.",Healthcare,Percapita,2014,"1,896.84"
+"Korea, Rep.",Healthcare,Change,2014,10.38
+"Korea, Rep.",Healthcare,Percentchange,2014,12.08
+Mexico,Population,Current,2014,120.36
+Mexico,GDP,Current,2014,"1,315"
+Mexico,Edu,PercentGDP,2014,5.26062
+Mexico,Edu,Current,2014,69.15
+Mexico,Edu,Percapita,2014,574.58
+Mexico,Edu,Change,2014,9.31
+Mexico,Edu,Percentchange,2014,15.55
+Mexico,Military,PercentGDP,2014,0.659120391
+Mexico,Military,Current,2014,8.66
+Mexico,Military,Percapita,2014,0
+Mexico,Military,Change,2014,0.83
+Mexico,Military,Percentchange,2014,10.54
+Mexico,Healthcare,PercentGDP,2014,5.53723009
+Mexico,Healthcare,Current,2014,72.79
+Mexico,Healthcare,Percapita,2014,604.8
+Mexico,Healthcare,Change,2014,-1.26
+Mexico,Healthcare,Percentchange,2014,-1.7
+Russian Federation,Population,Current,2014,143.82
+Russian Federation,GDP,Current,2014,"2,060"
+Russian Federation,Edu,PercentGDP,2014,4.00528
+Russian Federation,Edu,Current,2014,82.51
+Russian Federation,Edu,Percapita,2014,573.69
+Russian Federation,Edu,Change,2014,-3.78
+Russian Federation,Edu,Percentchange,2014,-4.38
+Russian Federation,Military,PercentGDP,2014,4.104182213
+Russian Federation,Military,Current,2014,84.7
+Russian Federation,Military,Percapita,2014,0
+Russian Federation,Military,Change,2014,-3.66
+Russian Federation,Military,Percentchange,2014,-4.14
+Russian Federation,Healthcare,PercentGDP,2014,5.17099307
+Russian Federation,Healthcare,Current,2014,106.52
+Russian Federation,Healthcare,Percapita,2014,740.66
+Russian Federation,Healthcare,Change,2014,-9.96
+Russian Federation,Healthcare,Percentchange,2014,-8.55
+Saudi Arabia,Population,Current,2014,30.92
+Saudi Arabia,GDP,Current,2014,756
+Saudi Arabia,Edu,PercentGDP,2014,NA
+Saudi Arabia,Edu,Current,2014,-
+Saudi Arabia,Edu,Percapita,2014,-
+Saudi Arabia,Edu,Change,2014,0
+Saudi Arabia,Edu,Percentchange,2014,#DIV/0!
+Saudi Arabia,Military,PercentGDP,2014,10.6779063
+Saudi Arabia,Military,Current,2014,80.76
+Saudi Arabia,Military,Percapita,2014,0
+Saudi Arabia,Military,Change,2014,13.74
+Saudi Arabia,Military,Percentchange,2014,20.5
+Saudi Arabia,Healthcare,PercentGDP,2014,5.22794726
+Saudi Arabia,Healthcare,Current,2014,39.54
+Saudi Arabia,Healthcare,Percapita,2014,"1,278.96"
+Saudi Arabia,Healthcare,Change,2014,6.2
+Saudi Arabia,Healthcare,Percentchange,2014,18.59
+South Africa,Population,Current,2014,54.55
+South Africa,GDP,Current,2014,351
+South Africa,Edu,PercentGDP,2014,6.04662
+South Africa,Edu,Current,2014,21.22
+South Africa,Edu,Percapita,2014,388.99
+South Africa,Edu,Change,2014,-0.84
+South Africa,Edu,Percentchange,2014,-3.81
+South Africa,Military,PercentGDP,2014,1.109437883
+South Africa,Military,Current,2014,3.89
+South Africa,Military,Percapita,2014,0
+South Africa,Military,Change,2014,-0.23
+South Africa,Military,Percentchange,2014,-5.48
+South Africa,Healthcare,PercentGDP,2014,7.93015013
+South Africa,Healthcare,Current,2014,27.83
+South Africa,Healthcare,Percapita,2014,510.16
+South Africa,Healthcare,Change,2014,-0.5
+South Africa,Healthcare,Percentchange,2014,-1.75
+Turkey,Population,Current,2014,77.23
+Turkey,GDP,Current,2014,934
+Turkey,Edu,PercentGDP,2014,NA
+Turkey,Edu,Current,2014,-
+Turkey,Edu,Percapita,2014,-
+Turkey,Edu,Change,2014,0
+Turkey,Edu,Percentchange,2014,#DIV/0!
+Turkey,Military,PercentGDP,2014,1.902457774
+Turkey,Military,Current,2014,17.77
+Turkey,Military,Percapita,2014,0
+Turkey,Military,Change,2014,-0.89
+Turkey,Military,Percentchange,2014,-4.77
+Turkey,Healthcare,PercentGDP,2014,4.34726586
+Turkey,Healthcare,Current,2014,40.61
+Turkey,Healthcare,Percapita,2014,525.84
+Turkey,Healthcare,Change,2014,-1.25
+Turkey,Healthcare,Percentchange,2014,-2.99
+United Kingdom,Population,Current,2014,64.61
+United Kingdom,GDP,Current,2014,"3,064"
+United Kingdom,Edu,PercentGDP,2014,5.66499
+United Kingdom,Edu,Current,2014,173.56
+United Kingdom,Edu,Percapita,2014,"2,686.20"
+United Kingdom,Edu,Change,2014,17.87
+United Kingdom,Edu,Percentchange,2014,11.48
+United Kingdom,Military,PercentGDP,2014,1.948806997
+United Kingdom,Military,Current,2014,59.18
+United Kingdom,Military,Percapita,2014,0
+United Kingdom,Military,Change,2014,2.32
+United Kingdom,Military,Percentchange,2014,4.08
+United Kingdom,Healthcare,PercentGDP,2014,9.72392342
+United Kingdom,Healthcare,Current,2014,297.92
+United Kingdom,Healthcare,Percapita,2014,"4,610.85"
+United Kingdom,Healthcare,Change,2014,25.66
+United Kingdom,Healthcare,Percentchange,2014,9.43
+United States,Population,Current,2014,318.39
+United States,GDP,Current,2014,"17,522"
+United States,Edu,PercentGDP,2014,4.96174
+United States,Edu,Current,2014,869.38
+United States,Edu,Percapita,2014,"2,730.59"
+United States,Edu,Change,2014,41.71
+United States,Edu,Percentchange,2014,5.04
+United States,Military,PercentGDP,2014,3.480897196
+United States,Military,Current,2014,609.91
+United States,Military,Percapita,2014,0
+United States,Military,Change,2014,-29.79
+United States,Military,Percentchange,2014,-4.66
+United States,Healthcare,PercentGDP,2014,16.50510561
+United States,Healthcare,Current,2014,"2,891.98"
+United States,Healthcare,Percapita,2014,"9,083.25"
+United States,Healthcare,Change,2014,150.88
+United States,Healthcare,Percentchange,2014,5.5
+Argentina,Population,Current,2015,43.13
+Argentina,GDP,Current,2015,595
+Argentina,Edu,PercentGDP,2015,5.77611
+Argentina,Edu,Current,2015,34.35
+Argentina,Edu,Percapita,2015,796.47
+Argentina,Edu,Change,2015,6.14
+Argentina,Edu,Percentchange,2015,21.74
+Argentina,Military,PercentGDP,2015,0.850128583
+Argentina,Military,Current,2015,5.48
+Argentina,Military,Percapita,2015,0
+Argentina,Military,Change,2015,0.5
+Argentina,Military,Percentchange,2015,10.11
+Argentina,Healthcare,PercentGDP,2015,8.74331517
+Argentina,Healthcare,Current,2015,52
+Argentina,Healthcare,Percapita,2015,"1,205.62"
+Argentina,Healthcare,Change,2015,8.65
+Argentina,Healthcare,Percentchange,2015,19.94
+Australia,Population,Current,2015,23.82
+Australia,GDP,Current,2015,"1,352"
+Australia,Edu,PercentGDP,2015,5.32175
+Australia,Edu,Current,2015,71.93
+Australia,Edu,Percapita,2015,"3,020.40"
+Australia,Edu,Change,2015,-3.99
+Australia,Edu,Percentchange,2015,-5.25
+Australia,Military,PercentGDP,2015,1.958451254
+Australia,Military,Current,2015,24.05
+Australia,Military,Percapita,2015,0
+Australia,Military,Change,2015,-1.74
+Australia,Military,Percentchange,2015,-6.74
+Australia,Healthcare,PercentGDP,2015,9.33006717
+Australia,Healthcare,Current,2015,126.11
+Australia,Healthcare,Percapita,2015,"5,295.35"
+Australia,Healthcare,Change,2015,-6.76
+Australia,Healthcare,Percentchange,2015,-5.09
+Brazil,Population,Current,2015,204.47
+Brazil,GDP,Current,2015,"1,802"
+Brazil,Edu,PercentGDP,2015,6.24106
+Brazil,Edu,Current,2015,112.48
+Brazil,Edu,Percapita,2015,550.09
+Brazil,Edu,Change,2015,-33.62
+Brazil,Edu,Percentchange,2015,-23.01
+Brazil,Military,PercentGDP,2015,1.365517154
+Brazil,Military,Current,2015,24.62
+Brazil,Military,Percapita,2015,0
+Brazil,Military,Change,2015,-8.04
+Brazil,Military,Percentchange,2015,-24.62
+Brazil,Healthcare,PercentGDP,2015,11.4647339
+Brazil,Healthcare,Current,2015,206.62
+Brazil,Healthcare,Percapita,2015,"1,010.50"
+Brazil,Healthcare,Change,2015,-59.12
+Brazil,Healthcare,Percentchange,2015,-22.25
+Canada,Population,Current,2015,35.7
+Canada,GDP,Current,2015,"1,553"
+Canada,Edu,PercentGDP,2015,NA
+Canada,Edu,Current,2015,-
+Canada,Edu,Percapita,2015,-
+Canada,Edu,Change,2015,0
+Canada,Edu,Percentchange,2015,#DIV/0!
+Canada,Military,PercentGDP,2015,1.150126497
+Canada,Military,Current,2015,17.94
+Canada,Military,Percapita,2015,0
+Canada,Military,Change,2015,0.08
+Canada,Military,Percentchange,2015,0.47
+Canada,Healthcare,PercentGDP,2015,10.37650812
+Canada,Healthcare,Current,2015,161.14
+Canada,Healthcare,Percapita,2015,"4,513.27"
+Canada,Healthcare,Change,2015,-18.47
+Canada,Healthcare,Percentchange,2015,-10.28
+China,Population,Current,2015,"1,371.22"
+China,GDP,Current,2015,"11,016"
+China,Edu,PercentGDP,2015,NA
+China,Edu,Current,2015,-
+China,Edu,Percapita,2015,-
+China,Edu,Change,2015,0
+China,Edu,Percentchange,2015,#DIV/0!
+China,Military,PercentGDP,2015,1.907086486
+China,Military,Current,2015,214.09
+China,Military,Percapita,2015,0
+China,Military,Change,2015,13.32
+China,Military,Percentchange,2015,6.63
+China,Healthcare,PercentGDP,2015,4.88872272
+China,Healthcare,Current,2015,538.52
+China,Healthcare,Percapita,2015,392.73
+China,Healthcare,Change,2015,40.26
+China,Healthcare,Percentchange,2015,8.08
+France,Population,Current,2015,66.59
+France,GDP,Current,2015,"2,438"
+France,Edu,PercentGDP,2015,5.46424
+France,Edu,Current,2015,133.23
+France,Edu,Percapita,2015,"2,000.64"
+France,Edu,Change,2015,-23.98
+France,Edu,Percentchange,2015,-15.26
+France,Military,PercentGDP,2015,2.26989054
+France,Military,Current,2015,55.34
+France,Military,Percapita,2015,0
+France,Military,Change,2015,-8.27
+France,Military,Percentchange,2015,-13
+France,Healthcare,PercentGDP,2015,11.50136047
+France,Healthcare,Current,2015,280.43
+France,Healthcare,Percapita,2015,"4,211.04"
+France,Healthcare,Change,2015,-50.28
+France,Healthcare,Percentchange,2015,-15.2
+Germany,Population,Current,2015,81.69
+Germany,GDP,Current,2015,"3,361"
+Germany,Edu,PercentGDP,2015,4.80518
+Germany,Edu,Current,2015,161.48
+Germany,Edu,Percapita,2015,"1,976.83"
+Germany,Edu,Change,2015,-29.64
+Germany,Edu,Percentchange,2015,-15.51
+Germany,Military,PercentGDP,2015,1.177456492
+Germany,Military,Current,2015,39.81
+Germany,Military,Percapita,2015,0
+Germany,Military,Change,2015,-6.29
+Germany,Military,Percentchange,2015,-13.64
+Germany,Healthcare,PercentGDP,2015,11.07906625
+Germany,Healthcare,Current,2015,372.32
+Germany,Healthcare,Percapita,2015,"4,557.88"
+Germany,Healthcare,Change,2015,-53.26
+Germany,Healthcare,Percentchange,2015,-12.51
+India,Population,Current,2015,"1,310.15"
+India,GDP,Current,2015,"2,104"
+India,Edu,PercentGDP,2015,NA
+India,Edu,Current,2015,-
+India,Edu,Percapita,2015,-
+India,Edu,Change,2015,0
+India,Edu,Percentchange,2015,#DIV/0!
+India,Military,PercentGDP,2015,2.40512747
+India,Military,Current,2015,51.3
+India,Military,Percapita,2015,0
+India,Military,Change,2015,0.38
+India,Military,Percentchange,2015,0.75
+India,Healthcare,PercentGDP,2015,3.59770551
+India,Healthcare,Current,2015,75.68
+India,Healthcare,Percapita,2015,57.76
+India,Healthcare,Change,2015,1.87
+India,Healthcare,Percentchange,2015,2.54
+Indonesia,Population,Current,2015,258.38
+Indonesia,GDP,Current,2015,861
+Indonesia,Edu,PercentGDP,2015,3.5836
+Indonesia,Edu,Current,2015,30.85
+Indonesia,Edu,Percapita,2015,119.39
+Indonesia,Edu,Change,2015,1.56
+Indonesia,Edu,Percentchange,2015,5.32
+Indonesia,Military,PercentGDP,2015,0.886971133
+Indonesia,Military,Current,2015,7.64
+Indonesia,Military,Percapita,2015,0
+Indonesia,Military,Change,2015,0.71
+Indonesia,Military,Percentchange,2015,10.24
+Indonesia,Healthcare,PercentGDP,2015,3.0053613
+Indonesia,Healthcare,Current,2015,25.87
+Indonesia,Healthcare,Percapita,2015,100.13
+Indonesia,Healthcare,Change,2015,-1.9
+Indonesia,Healthcare,Percentchange,2015,-6.83
+Italy,Population,Current,2015,60.73
+Italy,GDP,Current,2015,"1,836"
+Italy,Edu,PercentGDP,2015,4.08169
+Italy,Edu,Current,2015,74.94
+Italy,Edu,Percapita,2015,"1,233.90"
+Italy,Edu,Change,2015,-13.05
+Italy,Edu,Percentchange,2015,-14.84
+Italy,Military,PercentGDP,2015,1.210619499
+Italy,Military,Current,2015,22.18
+Italy,Military,Percapita,2015,0
+Italy,Military,Change,2015,-5.52
+Italy,Military,Percentchange,2015,-19.93
+Italy,Healthcare,PercentGDP,2015,8.98541669
+Italy,Healthcare,Current,2015,164.96
+Italy,Healthcare,Percapita,2015,"2,716.31"
+Italy,Healthcare,Change,2015,-29.61
+Italy,Healthcare,Percentchange,2015,-15.22
+Japan,Population,Current,2015,127.14
+Japan,GDP,Current,2015,"4,389"
+Japan,Edu,PercentGDP,2015,NA
+Japan,Edu,Current,2015,-
+Japan,Edu,Percapita,2015,-
+Japan,Edu,Change,2015,-174.16
+Japan,Edu,Percentchange,2015,-100
+Japan,Military,PercentGDP,2015,0.958050431
+Japan,Military,Current,2015,42.11
+Japan,Military,Percapita,2015,0
+Japan,Military,Change,2015,-4.78
+Japan,Military,Percentchange,2015,-10.19
+Japan,Healthcare,PercentGDP,2015,10.87187938
+Japan,Healthcare,Current,2015,477.22
+Japan,Healthcare,Percapita,2015,"3,753.46"
+Japan,Healthcare,Change,2015,-48.18
+Japan,Healthcare,Percentchange,2015,-9.17
+"Korea, Rep.",Population,Current,2015,51.01
+"Korea, Rep.",GDP,Current,2015,"1,383"
+"Korea, Rep.",Edu,PercentGDP,2015,NA
+"Korea, Rep.",Edu,Current,2015,-
+"Korea, Rep.",Edu,Percapita,2015,-
+"Korea, Rep.",Edu,Change,2015,0
+"Korea, Rep.",Edu,Percentchange,2015,#DIV/0!
+"Korea, Rep.",Military,PercentGDP,2015,2.644758513
+"Korea, Rep.",Military,Current,2015,36.57
+"Korea, Rep.",Military,Percapita,2015,0
+"Korea, Rep.",Military,Change,2015,-0.98
+"Korea, Rep.",Military,Percentchange,2015,-2.61
+"Korea, Rep.",Healthcare,PercentGDP,2015,7.04921624
+"Korea, Rep.",Healthcare,Current,2015,97.47
+"Korea, Rep.",Healthcare,Percapita,2015,"1,910.70"
+"Korea, Rep.",Healthcare,Change,2015,1.22
+"Korea, Rep.",Healthcare,Percentchange,2015,1.26
+Mexico,Population,Current,2015,121.86
+Mexico,GDP,Current,2015,"1,171"
+Mexico,Edu,PercentGDP,2015,5.23524
+Mexico,Edu,Current,2015,61.28
+Mexico,Edu,Percapita,2015,502.89
+Mexico,Edu,Change,2015,-7.87
+Mexico,Edu,Percentchange,2015,-11.38
+Mexico,Military,PercentGDP,2015,0.661709561
+Mexico,Military,Current,2015,7.74
+Mexico,Military,Percapita,2015,0
+Mexico,Military,Change,2015,-0.92
+Mexico,Military,Percentchange,2015,-10.66
+Mexico,Healthcare,PercentGDP,2015,5.65276786
+Mexico,Healthcare,Current,2015,66.17
+Mexico,Healthcare,Percapita,2015,543
+Mexico,Healthcare,Change,2015,-6.62
+Mexico,Healthcare,Percentchange,2015,-9.1
+Russian Federation,Population,Current,2015,144.1
+Russian Federation,GDP,Current,2015,"1,364"
+Russian Federation,Edu,PercentGDP,2015,3.8334
+Russian Federation,Edu,Current,2015,52.27
+Russian Federation,Edu,Percapita,2015,362.76
+Russian Federation,Edu,Change,2015,-30.24
+Russian Federation,Edu,Percentchange,2015,-36.65
+Russian Federation,Military,PercentGDP,2015,4.862758102
+Russian Federation,Military,Current,2015,66.42
+Russian Federation,Military,Percapita,2015,0
+Russian Federation,Military,Change,2015,-18.28
+Russian Federation,Military,Percentchange,2015,-21.58
+Russian Federation,Healthcare,PercentGDP,2015,5.27700319
+Russian Federation,Healthcare,Current,2015,71.96
+Russian Federation,Healthcare,Percapita,2015,499.36
+Russian Federation,Healthcare,Change,2015,-34.56
+Russian Federation,Healthcare,Percentchange,2015,-32.45
+Saudi Arabia,Population,Current,2015,31.72
+Saudi Arabia,GDP,Current,2015,654
+Saudi Arabia,Edu,PercentGDP,2015,NA
+Saudi Arabia,Edu,Current,2015,-
+Saudi Arabia,Edu,Percapita,2015,-
+Saudi Arabia,Edu,Change,2015,0
+Saudi Arabia,Edu,Percentchange,2015,#DIV/0!
+Saudi Arabia,Military,PercentGDP,2015,13.32567233
+Saudi Arabia,Military,Current,2015,87.19
+Saudi Arabia,Military,Percapita,2015,0
+Saudi Arabia,Military,Change,2015,6.42
+Saudi Arabia,Military,Percentchange,2015,7.95
+Saudi Arabia,Healthcare,PercentGDP,2015,5.99834034
+Saudi Arabia,Healthcare,Current,2015,39.25
+Saudi Arabia,Healthcare,Percapita,2015,"1,237.33"
+Saudi Arabia,Healthcare,Change,2015,-0.3
+Saudi Arabia,Healthcare,Percentchange,2015,-0.75
+South Africa,Population,Current,2015,55.39
+South Africa,GDP,Current,2015,318
+South Africa,Edu,PercentGDP,2015,5.95619
+South Africa,Edu,Current,2015,18.92
+South Africa,Edu,Percapita,2015,341.57
+South Africa,Edu,Change,2015,-2.3
+South Africa,Edu,Percentchange,2015,-10.84
+South Africa,Military,PercentGDP,2015,1.099182075
+South Africa,Military,Current,2015,3.49
+South Africa,Military,Percapita,2015,0
+South Africa,Military,Change,2015,-0.4
+South Africa,Military,Percentchange,2015,-10.37
+South Africa,Healthcare,PercentGDP,2015,8.19779026
+South Africa,Healthcare,Current,2015,26.04
+South Africa,Healthcare,Percapita,2015,470.11
+South Africa,Healthcare,Change,2015,-1.79
+South Africa,Healthcare,Percentchange,2015,-6.43
+Turkey,Population,Current,2015,78.53
+Turkey,GDP,Current,2015,860
+Turkey,Edu,PercentGDP,2015,NA
+Turkey,Edu,Current,2015,-
+Turkey,Edu,Percapita,2015,-
+Turkey,Edu,Change,2015,0
+Turkey,Edu,Percentchange,2015,#DIV/0!
+Turkey,Military,PercentGDP,2015,1.847055744
+Turkey,Military,Current,2015,15.88
+Turkey,Military,Percapita,2015,0
+Turkey,Military,Change,2015,-1.89
+Turkey,Military,Percentchange,2015,-10.64
+Turkey,Healthcare,PercentGDP,2015,4.13853307
+Turkey,Healthcare,Current,2015,35.58
+Turkey,Healthcare,Percapita,2015,453.12
+Turkey,Healthcare,Change,2015,-5.03
+Turkey,Healthcare,Percentchange,2015,-12.38
+United Kingdom,Population,Current,2015,65.13
+United Kingdom,GDP,Current,2015,"2,929"
+United Kingdom,Edu,PercentGDP,2015,5.60939
+United Kingdom,Edu,Current,2015,164.28
+United Kingdom,Edu,Percapita,2015,"2,522.32"
+United Kingdom,Edu,Change,2015,-9.29
+United Kingdom,Edu,Percentchange,2015,-5.35
+United Kingdom,Military,PercentGDP,2015,1.859612024
+United Kingdom,Military,Current,2015,53.86
+United Kingdom,Military,Percapita,2015,0
+United Kingdom,Military,Change,2015,-5.32
+United Kingdom,Military,Percentchange,2015,-8.99
+United Kingdom,Healthcare,PercentGDP,2015,9.79273451
+United Kingdom,Healthcare,Current,2015,286.79
+United Kingdom,Healthcare,Percapita,2015,"4,403.41"
+United Kingdom,Healthcare,Change,2015,-11.13
+United Kingdom,Healthcare,Percentchange,2015,-3.74
+United States,Population,Current,2015,320.74
+United States,GDP,Current,2015,"18,219"
+United States,Edu,PercentGDP,2015,NA
+United States,Edu,Current,2015,-
+United States,Edu,Percapita,2015,-
+United States,Edu,Change,2015,-869.38
+United States,Edu,Percentchange,2015,-100
+United States,Military,PercentGDP,2015,3.271831264
+United States,Military,Current,2015,596.1
+United States,Military,Percapita,2015,0
+United States,Military,Change,2015,-13.81
+United States,Military,Percentchange,2015,-2.26
+United States,Healthcare,PercentGDP,2015,16.81565916
+United States,Healthcare,Current,2015,"3,063.69"
+United States,Healthcare,Percapita,2015,"9,551.88"
+United States,Healthcare,Change,2015,171.71
+United States,Healthcare,Percentchange,2015,5.94
+Argentina,Population,Current,2016,43.59
+Argentina,GDP,Current,2016,558
+Argentina,Edu,PercentGDP,2016,5.57218
+Argentina,Edu,Current,2016,31.07
+Argentina,Edu,Percapita,2016,712.7
+Argentina,Edu,Change,2016,-3.29
+Argentina,Edu,Percentchange,2016,-9.57
+Argentina,Military,PercentGDP,2016,0.813140078
+Argentina,Military,Current,2016,4.51
+Argentina,Military,Percapita,2016,0
+Argentina,Military,Change,2016,-0.97
+Argentina,Military,Percentchange,2016,-17.75
+Argentina,Healthcare,PercentGDP,2016,7.54838404
+Argentina,Healthcare,Current,2016,42.08
+Argentina,Healthcare,Percapita,2016,965.46
+Argentina,Healthcare,Change,2016,-9.92
+Argentina,Healthcare,Percentchange,2016,-19.07
+Australia,Population,Current,2016,24.19
+Australia,GDP,Current,2016,"1,209"
+Australia,Edu,PercentGDP,2016,5.28031
+Australia,Edu,Current,2016,63.83
+Australia,Edu,Percapita,2016,"2,638.63"
+Australia,Edu,Change,2016,-8.1
+Australia,Edu,Percentchange,2016,-11.26
+Australia,Military,PercentGDP,2016,2.092849524
+Australia,Military,Current,2016,26.38
+Australia,Military,Percapita,2016,0
+Australia,Military,Change,2016,2.34
+Australia,Military,Percentchange,2016,9.72
+Australia,Healthcare,PercentGDP,2016,9.25209201
+Australia,Healthcare,Current,2016,111.84
+Australia,Healthcare,Percapita,2016,"4,623.38"
+Australia,Healthcare,Change,2016,-14.27
+Australia,Healthcare,Percentchange,2016,-11.32
+Brazil,Population,Current,2016,206.16
+Brazil,GDP,Current,2016,"1,796"
+Brazil,Edu,PercentGDP,2016,NA
+Brazil,Edu,Current,2016,-
+Brazil,Edu,Percapita,2016,-
+Brazil,Edu,Change,2016,-112.48
+Brazil,Edu,Percentchange,2016,-100
+Brazil,Military,PercentGDP,2016,1.350150573
+Brazil,Military,Current,2016,24.22
+Brazil,Military,Percapita,2016,0
+Brazil,Military,Change,2016,-0.39
+Brazil,Military,Percentchange,2016,-1.6
+Brazil,Healthcare,PercentGDP,2016,11.77150303
+Brazil,Healthcare,Current,2016,211.45
+Brazil,Healthcare,Percapita,2016,"1,025.64"
+Brazil,Healthcare,Change,2016,4.83
+Brazil,Healthcare,Percentchange,2016,2.34
+Canada,Population,Current,2016,36.11
+Canada,GDP,Current,2016,"1,527"
+Canada,Edu,PercentGDP,2016,NA
+Canada,Edu,Current,2016,-
+Canada,Edu,Percapita,2016,-
+Canada,Edu,Change,2016,0
+Canada,Edu,Percentchange,2016,#DIV/0!
+Canada,Military,PercentGDP,2016,1.15845888
+Canada,Military,Current,2016,17.78
+Canada,Military,Percapita,2016,0
+Canada,Military,Change,2016,-0.15
+Canada,Military,Percentchange,2016,-0.86
+Canada,Healthcare,PercentGDP,2016,10.53465477
+Canada,Healthcare,Current,2016,160.83
+Canada,Healthcare,Percapita,2016,"4,454.04"
+Canada,Healthcare,Change,2016,-0.3
+Canada,Healthcare,Percentchange,2016,-0.19
+China,Population,Current,2016,"1,378.67"
+China,GDP,Current,2016,"11,138"
+China,Edu,PercentGDP,2016,NA
+China,Edu,Current,2016,-
+China,Edu,Percapita,2016,-
+China,Edu,Change,2016,0
+China,Edu,Percentchange,2016,#DIV/0!
+China,Military,PercentGDP,2016,1.924947124
+China,Military,Current,2016,216.03
+China,Military,Percapita,2016,0
+China,Military,Change,2016,1.94
+China,Military,Percentchange,2016,0.91
+China,Healthcare,PercentGDP,2016,4.98188075
+China,Healthcare,Current,2016,554.88
+China,Healthcare,Percapita,2016,402.48
+China,Healthcare,Change,2016,16.36
+China,Healthcare,Percentchange,2016,3.04
+France,Population,Current,2016,66.86
+France,GDP,Current,2016,"2,471"
+France,Edu,PercentGDP,2016,5.43259
+France,Edu,Current,2016,134.25
+France,Edu,Percapita,2016,"2,008.01"
+France,Edu,Change,2016,1.03
+France,Edu,Percentchange,2016,0.77
+France,Military,PercentGDP,2016,2.327323645
+France,Military,Current,2016,57.36
+France,Military,Percapita,2016,0
+France,Military,Change,2016,2.02
+France,Military,Percentchange,2016,3.64
+France,Healthcare,PercentGDP,2016,11.53929503
+France,Healthcare,Current,2016,285.17
+France,Healthcare,Percapita,2016,"4,265.18"
+France,Healthcare,Change,2016,4.74
+France,Healthcare,Percentchange,2016,1.69
+Germany,Population,Current,2016,82.35
+Germany,GDP,Current,2016,"3,467"
+Germany,Edu,PercentGDP,2016,4.80093
+Germany,Edu,Current,2016,166.44
+Germany,Edu,Percapita,2016,"2,021.14"
+Germany,Edu,Change,2016,4.96
+Germany,Edu,Percentchange,2016,3.07
+Germany,Military,PercentGDP,2016,1.189904265
+Germany,Military,Current,2016,41.58
+Germany,Military,Percapita,2016,0
+Germany,Military,Change,2016,1.77
+Germany,Military,Percentchange,2016,4.44
+Germany,Healthcare,PercentGDP,2016,11.13916763
+Germany,Healthcare,Current,2016,386.17
+Germany,Healthcare,Percapita,2016,"4,689.47"
+Germany,Healthcare,Change,2016,13.85
+Germany,Healthcare,Percentchange,2016,3.72
+India,Population,Current,2016,"1,324.51"
+India,GDP,Current,2016,"2,290"
+India,Edu,PercentGDP,2016,NA
+India,Edu,Current,2016,-
+India,Edu,Percapita,2016,-
+India,Edu,Change,2016,0
+India,Edu,Percentchange,2016,#DIV/0!
+India,Military,PercentGDP,2016,2.506470751
+India,Military,Current,2016,56.64
+India,Military,Percapita,2016,0
+India,Military,Change,2016,5.34
+India,Military,Percentchange,2016,10.41
+India,Healthcare,PercentGDP,2016,3.65833057
+India,Healthcare,Current,2016,83.79
+India,Healthcare,Percapita,2016,63.26
+India,Healthcare,Change,2016,8.11
+India,Healthcare,Percentchange,2016,10.72
+Indonesia,Population,Current,2016,261.55
+Indonesia,GDP,Current,2016,932
+Indonesia,Edu,PercentGDP,2016,NA
+Indonesia,Edu,Current,2016,-
+Indonesia,Edu,Percapita,2016,-
+Indonesia,Edu,Change,2016,-30.85
+Indonesia,Edu,Percentchange,2016,-100
+Indonesia,Military,PercentGDP,2016,0.790694801
+Indonesia,Military,Current,2016,7.39
+Indonesia,Military,Percapita,2016,0
+Indonesia,Military,Change,2016,-0.25
+Indonesia,Military,Percentchange,2016,-3.32
+Indonesia,Healthcare,PercentGDP,2016,3.12449094
+Indonesia,Healthcare,Current,2016,29.12
+Indonesia,Healthcare,Percapita,2016,111.32
+Indonesia,Healthcare,Change,2016,3.24
+Indonesia,Healthcare,Percentchange,2016,12.54
+Italy,Population,Current,2016,60.63
+Italy,GDP,Current,2016,"1,876"
+Italy,Edu,PercentGDP,2016,3.82943
+Italy,Edu,Current,2016,71.82
+Italy,Edu,Percapita,2016,"1,184.68"
+Italy,Edu,Change,2016,-3.11
+Italy,Edu,Percentchange,2016,-4.15
+Italy,Military,PercentGDP,2016,1.339605986
+Italy,Military,Current,2016,25.03
+Italy,Military,Percapita,2016,0
+Italy,Military,Change,2016,2.85
+Italy,Military,Percentchange,2016,12.86
+Italy,Healthcare,PercentGDP,2016,8.93549301
+Italy,Healthcare,Current,2016,167.59
+Italy,Healthcare,Percapita,2016,"2,764.30"
+Italy,Healthcare,Change,2016,2.63
+Italy,Healthcare,Percentchange,2016,1.59
+Japan,Population,Current,2016,126.99
+Japan,GDP,Current,2016,"4,927"
+Japan,Edu,PercentGDP,2016,NA
+Japan,Edu,Current,2016,-
+Japan,Edu,Percapita,2016,-
+Japan,Edu,Change,2016,0
+Japan,Edu,Percentchange,2016,#DIV/0!
+Japan,Military,PercentGDP,2016,0.939582603
+Japan,Military,Current,2016,46.47
+Japan,Military,Percapita,2016,0
+Japan,Military,Change,2016,4.37
+Japan,Military,Percentchange,2016,10.37
+Japan,Healthcare,PercentGDP,2016,10.92612327
+Japan,Healthcare,Current,2016,538.29
+Japan,Healthcare,Percapita,2016,"4,238.72"
+Japan,Healthcare,Change,2016,61.08
+Japan,Healthcare,Percentchange,2016,12.8
+"Korea, Rep.",Population,Current,2016,51.25
+"Korea, Rep.",GDP,Current,2016,"1,415"
+"Korea, Rep.",Edu,PercentGDP,2016,NA
+"Korea, Rep.",Edu,Current,2016,-
+"Korea, Rep.",Edu,Percapita,2016,-
+"Korea, Rep.",Edu,Change,2016,0
+"Korea, Rep.",Edu,Percentchange,2016,#DIV/0!
+"Korea, Rep.",Military,PercentGDP,2016,2.607881295
+"Korea, Rep.",Military,Current,2016,36.89
+"Korea, Rep.",Military,Percapita,2016,0
+"Korea, Rep.",Military,Change,2016,0.31
+"Korea, Rep.",Military,Percentchange,2016,0.86
+"Korea, Rep.",Healthcare,PercentGDP,2016,7.33752488
+"Korea, Rep.",Healthcare,Current,2016,103.81
+"Korea, Rep.",Healthcare,Percapita,2016,"2,025.76"
+"Korea, Rep.",Healthcare,Change,2016,6.34
+"Korea, Rep.",Healthcare,Percentchange,2016,6.5
+Mexico,Population,Current,2016,123.33
+Mexico,GDP,Current,2016,"1,078"
+Mexico,Edu,PercentGDP,2016,4.91005
+Mexico,Edu,Current,2016,52.93
+Mexico,Edu,Percapita,2016,429.13
+Mexico,Edu,Change,2016,-8.36
+Mexico,Edu,Percentchange,2016,-13.64
+Mexico,Military,PercentGDP,2016,0.559230191
+Mexico,Military,Current,2016,6.02
+Mexico,Military,Percapita,2016,0
+Mexico,Military,Change,2016,-1.72
+Mexico,Military,Percentchange,2016,-22.22
+Mexico,Healthcare,PercentGDP,2016,5.46900124
+Mexico,Healthcare,Current,2016,58.95
+Mexico,Healthcare,Percapita,2016,477.98
+Mexico,Healthcare,Change,2016,-7.22
+Mexico,Healthcare,Percentchange,2016,-10.91
+Russian Federation,Population,Current,2016,144.34
+Russian Federation,GDP,Current,2016,"1,283"
+Russian Federation,Edu,PercentGDP,2016,3.74321
+Russian Federation,Edu,Current,2016,48.02
+Russian Federation,Edu,Percapita,2016,332.65
+Russian Federation,Edu,Change,2016,-4.26
+Russian Federation,Edu,Percentchange,2016,-8.14
+Russian Federation,Military,PercentGDP,2016,5.45240651
+Russian Federation,Military,Current,2016,69.25
+Russian Federation,Military,Percapita,2016,0
+Russian Federation,Military,Change,2016,2.83
+Russian Federation,Military,Percentchange,2016,4.26
+Russian Federation,Healthcare,PercentGDP,2016,5.27112755
+Russian Federation,Healthcare,Current,2016,67.61
+Russian Federation,Healthcare,Percapita,2016,468.43
+Russian Federation,Healthcare,Change,2016,-4.34
+Russian Federation,Healthcare,Percentchange,2016,-6.04
+Saudi Arabia,Population,Current,2016,32.44
+Saudi Arabia,GDP,Current,2016,645
+Saudi Arabia,Edu,PercentGDP,2016,NA
+Saudi Arabia,Edu,Current,2016,-
+Saudi Arabia,Edu,Percapita,2016,-
+Saudi Arabia,Edu,Change,2016,0
+Saudi Arabia,Edu,Percentchange,2016,#DIV/0!
+Saudi Arabia,Military,PercentGDP,2016,9.87273833
+Saudi Arabia,Military,Current,2016,63.67
+Saudi Arabia,Military,Percapita,2016,0
+Saudi Arabia,Military,Change,2016,-23.51
+Saudi Arabia,Military,Percentchange,2016,-26.97
+Saudi Arabia,Healthcare,PercentGDP,2016,5.74181331
+Saudi Arabia,Healthcare,Current,2016,37.03
+Saudi Arabia,Healthcare,Percapita,2016,"1,141.43"
+Saudi Arabia,Healthcare,Change,2016,-2.21
+Saudi Arabia,Healthcare,Percentchange,2016,-5.64
+South Africa,Population,Current,2016,56.2
+South Africa,GDP,Current,2016,296
+South Africa,Edu,PercentGDP,2016,5.94059
+South Africa,Edu,Current,2016,17.61
+South Africa,Edu,Percapita,2016,313.24
+South Africa,Edu,Change,2016,-1.31
+South Africa,Edu,Percentchange,2016,-6.94
+South Africa,Military,PercentGDP,2016,1.075529552
+South Africa,Military,Current,2016,3.17
+South Africa,Military,Percapita,2016,0
+South Africa,Military,Change,2016,-0.32
+South Africa,Military,Percentchange,2016,-9.15
+South Africa,Healthcare,PercentGDP,2016,8.1098146
+South Africa,Healthcare,Current,2016,24.03
+South Africa,Healthcare,Percapita,2016,427.62
+South Africa,Healthcare,Change,2016,-2
+South Africa,Healthcare,Percentchange,2016,-7.7
+Turkey,Population,Current,2016,79.82
+Turkey,GDP,Current,2016,864
+Turkey,Edu,PercentGDP,2016,NA
+Turkey,Edu,Current,2016,-
+Turkey,Edu,Percapita,2016,-
+Turkey,Edu,Change,2016,0
+Turkey,Edu,Percentchange,2016,#DIV/0!
+Turkey,Military,PercentGDP,2016,2.067542609
+Turkey,Military,Current,2016,17.85
+Turkey,Military,Percapita,2016,0
+Turkey,Military,Change,2016,1.97
+Turkey,Military,Percentchange,2016,12.42
+Turkey,Healthcare,PercentGDP,2016,4.3143198
+Turkey,Healthcare,Current,2016,37.26
+Turkey,Healthcare,Percapita,2016,466.84
+Turkey,Healthcare,Change,2016,1.68
+Turkey,Healthcare,Percentchange,2016,4.72
+United Kingdom,Population,Current,2016,65.6
+United Kingdom,GDP,Current,2016,"2,694"
+United Kingdom,Edu,PercentGDP,2016,5.48697
+United Kingdom,Edu,Current,2016,147.83
+United Kingdom,Edu,Percapita,2016,"2,253.73"
+United Kingdom,Edu,Change,2016,-16.44
+United Kingdom,Edu,Percentchange,2016,-10.01
+United Kingdom,Military,PercentGDP,2016,1.810780168
+United Kingdom,Military,Current,2016,48.12
+United Kingdom,Military,Percapita,2016,0
+United Kingdom,Military,Change,2016,-5.74
+United Kingdom,Military,Percentchange,2016,-10.66
+United Kingdom,Healthcare,PercentGDP,2016,9.7623484
+United Kingdom,Healthcare,Current,2016,263.03
+United Kingdom,Healthcare,Percapita,2016,"4,009.80"
+United Kingdom,Healthcare,Change,2016,-23.76
+United Kingdom,Healthcare,Percentchange,2016,-8.29
+United States,Population,Current,2016,323.07
+United States,GDP,Current,2016,"18,707"
+United States,Edu,PercentGDP,2016,NA
+United States,Edu,Current,2016,-
+United States,Edu,Percapita,2016,-
+United States,Edu,Change,2016,0
+United States,Edu,Percentchange,2016,#DIV/0!
+United States,Military,PercentGDP,2016,3.207892169
+United States,Military,Current,2016,600.11
+United States,Military,Percapita,2016,0
+United States,Military,Change,2016,4
+United States,Military,Percentchange,2016,0.67
+United States,Healthcare,PercentGDP,2016,17.07341533
+United States,Healthcare,Current,2016,"3,193.96"
+United States,Healthcare,Percapita,2016,"9,886.22"
+United States,Healthcare,Change,2016,130.26
+United States,Healthcare,Percentchange,2016,4.25
