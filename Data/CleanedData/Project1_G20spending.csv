@@ -1,0 +1,340 @@
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Population,Current, 40.79 , 41.26 , 41.73 , 42.20 , 42.67 , 43.13 , 43.59 , 44.04 , 44.49 
+Australia,Population,Current, 22.03 , 22.34 , 22.73 , 23.13 , 23.48 , 23.82 , 24.19 , 24.60 , 24.99 
+Brazil,Population,Current, 195.71 , 197.51 , 199.29 , 201.04 , 202.76 , 204.47 , 206.16 , 207.83 , 209.47 
+Canada,Population,Current, 34.00 , 34.34 , 34.71 , 35.08 , 35.44 , 35.70 , 36.11 , 36.54 , 37.06 
+China,Population,Current," 1,337.71 "," 1,344.13 "," 1,350.70 "," 1,357.38 "," 1,364.27 "," 1,371.22 "," 1,378.67 "," 1,386.40 "," 1,392.73 "
+Germany,Population,Current, 81.78 , 80.27 , 80.43 , 80.65 , 80.98 , 81.69 , 82.35 , 82.66 , 82.93 
+France,Population,Current, 65.03 , 65.34 , 65.66 , 66.00 , 66.32 , 66.59 , 66.86 , 66.87 , 66.99 
+United Kingdom,Population,Current, 62.77 , 63.26 , 63.70 , 64.13 , 64.61 , 65.13 , 65.60 , 66.06 , 66.49 
+Indonesia,Population,Current, 241.83 , 245.12 , 248.45 , 251.81 , 255.13 , 258.38 , 261.55 , 264.65 , 267.66 
+India,Population,Current," 1,234.28 "," 1,250.29 "," 1,265.78 "," 1,280.85 "," 1,295.60 "," 1,310.15 "," 1,324.51 "," 1,338.66 "," 1,352.62 "
+Italy,Population,Current, 59.28 , 59.38 , 59.54 , 60.23 , 60.79 , 60.73 , 60.63 , 60.54 , 60.43 
+Japan,Population,Current, 128.07 , 127.83 , 127.63 , 127.45 , 127.28 , 127.14 , 126.99 , 126.79 , 126.53 
+"Korea, Rep.",Population,Current, 49.55 , 49.94 , 50.20 , 50.43 , 50.75 , 51.01 , 51.25 , 51.47 , 51.64 
+Mexico,Population,Current, 114.09 , 115.70 , 117.27 , 118.83 , 120.36 , 121.86 , 123.33 , 124.78 , 126.19 
+Russian Federation,Population,Current, 142.85 , 142.96 , 143.20 , 143.51 , 143.82 , 144.10 , 144.34 , 144.50 , 144.48 
+Saudi Arabia,Population,Current, 27.42 , 28.27 , 29.16 , 30.05 , 30.92 , 31.72 , 32.44 , 33.10 , 33.70 
+Turkey,Population,Current, 72.33 , 73.44 , 74.65 , 75.93 , 77.23 , 78.53 , 79.82 , 81.10 , 82.32 
+United States,Population,Current, 309.33 , 311.58 , 313.87 , 316.06 , 318.39 , 320.74 , 323.07 , 325.15 , 327.17 
+South Africa,Population,Current, 51.22 , 52.00 , 52.83 , 53.69 , 54.55 , 55.39 , 56.20 , 57.00 , 57.78 
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,GDP ,Current, 424 , 530 , 546 , 552 , 526 , 595 , 558 , 643 , 520 
+Australia,GDP ,Current," 1,146 "," 1,397 "," 1,546 "," 1,576 "," 1,467 "," 1,352 "," 1,209 "," 1,330 "," 1,434 "
+Brazil,GDP ,Current," 2,209 "," 2,616 "," 2,465 "," 2,473 "," 2,456 "," 1,802 "," 1,796 "," 2,054 "," 1,869 "
+Canada,GDP ,Current," 1,614 "," 1,789 "," 1,824 "," 1,842 "," 1,801 "," 1,553 "," 1,527 "," 1,647 "," 1,713 "
+China,GDP ,Current," 6,087 "," 7,552 "," 8,532 "," 9,570 "," 10,439 "," 11,016 "," 11,138 "," 12,143 "," 13,608 "
+Germany,GDP ,Current," 3,396 "," 3,744 "," 3,527 "," 3,733 "," 3,884 "," 3,361 "," 3,467 "," 3,657 "," 3,948 "
+France,GDP ,Current," 2,643 "," 2,861 "," 2,684 "," 2,811 "," 2,852 "," 2,438 "," 2,471 "," 2,586 "," 2,778 "
+United Kingdom,GDP ,Current," 2,475 "," 2,659 "," 2,705 "," 2,786 "," 3,064 "," 2,929 "," 2,694 "," 2,666 "," 2,855 "
+Indonesia,GDP ,Current, 755 , 893 , 918 , 913 , 891 , 861 , 932 ," 1,015 "," 1,042 "
+India,GDP ,Current," 1,676 "," 1,823 "," 1,828 "," 1,857 "," 2,039 "," 2,104 "," 2,290 "," 2,652 "," 2,719 "
+Italy,GDP ,Current," 2,134 "," 2,292 "," 2,087 "," 2,141 "," 2,159 "," 1,836 "," 1,876 "," 1,957 "," 2,084 "
+Japan,GDP ,Current," 5,700 "," 6,157 "," 6,203 "," 5,156 "," 4,850 "," 4,389 "," 4,927 "," 4,860 "," 4,971 "
+"Korea, Rep.",GDP ,Current," 1,094 "," 1,202 "," 1,223 "," 1,306 "," 1,411 "," 1,383 "," 1,415 "," 1,531 "," 1,619 "
+Mexico,GDP ,Current," 1,058 "," 1,180 "," 1,201 "," 1,274 "," 1,315 "," 1,171 "," 1,078 "," 1,158 "," 1,221 "
+Russian Federation,GDP ,Current," 1,525 "," 2,052 "," 2,210 "," 2,297 "," 2,060 "," 1,364 "," 1,283 "," 1,579 "," 1,658 "
+Saudi Arabia,GDP ,Current, 528 , 671 , 736 , 747 , 756 , 654 , 645 , 689 , 787 
+Turkey,GDP ,Current, 772 , 833 , 874 , 951 , 934 , 860 , 864 , 853 , 771 
+United States,GDP ,Current," 14,992 "," 15,543 "," 16,197 "," 16,785 "," 17,522 "," 18,219 "," 18,707 "," 19,485 "," 20,544 "
+South Africa,GDP ,Current, 375 , 416 , 396 , 367 , 351 , 318 , 296 , 350 , 368 
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Edu,PercentGDP,5.01971,5.29063,5.34583,5.43661,5.36144,5.77611,5.57218,5.50825,
+Australia,Edu,PercentGDP,5.55917,5.08313,4.87765,5.23801,5.17368,5.32175,5.28031,,
+Brazil,Edu,PercentGDP,5.6488,5.73741,5.8551,5.83885,5.94848,6.24106,,,
+Canada,Edu,PercentGDP,5.36993,5.27444,,,,,,,
+China,Edu,PercentGDP,,,,,,,,,
+Germany,Edu,PercentGDP,4.91368,4.8078,4.93331,4.93497,4.92086,4.80518,4.80093,,
+France,Edu,PercentGDP,5.69251,5.5183,5.45642,5.50028,5.51206,5.46424,5.43259,,
+United Kingdom,Edu,PercentGDP,5.77046,5.6462,,5.58823,5.66499,5.60939,5.48697,,
+Indonesia,Edu,PercentGDP,2.81228,3.18944,3.40748,3.35904,3.28801,3.5836,,,
+India,Edu,PercentGDP,3.37769,3.79618,3.8675,3.84467,,,,,
+Italy,Edu,PercentGDP,4.35239,4.14407,4.08391,4.16472,4.07525,4.08169,3.82943,,
+Japan,Edu,PercentGDP,3.6395,3.64258,3.69226,3.66538,3.59059,,,,
+"Korea, Rep.",Edu,PercentGDP,,,,,,,,,
+Mexico,Edu,PercentGDP,5.15922,5.10565,5.1031,4.69605,5.26062,5.23524,4.91005,,
+Russian Federation,Edu,PercentGDP,,,3.78973,3.75621,4.00528,3.8334,3.74321,,
+Saudi Arabia,Edu,PercentGDP,,,,,,,,,
+Turkey,Edu,PercentGDP,,,,,,,,,
+United States,Edu,PercentGDP,,,,4.93105,4.96174,,,,
+South Africa,Edu,PercentGDP,5.72174,5.96275,6.37164,6.01354,6.04662,5.95619,5.94059,6.12535,6.16137
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Edu,Current, 21.26 , 28.05 , 29.19 , 30.01 , 28.22 , 34.35 , 31.07 , 35.40 , -   
+Australia,Edu,Current, 63.72 , 70.99 , 75.42 , 82.56 , 75.92 , 71.93 , 63.83 , -   , -   
+Brazil,Edu,Current, 124.77 , 150.10 , 144.34 , 144.38 , 146.09 , 112.48 , -   , -   , -   
+Canada,Edu,Current, 86.65 , 94.37 , -   , -   , -   , -   , -   , -   , -   
+China,Edu,Current, -   , -   , -   , -   , -   , -   , -   , -   , -   
+Germany,Edu,Current, 166.89 , 180.02 , 174.01 , 184.21 , 191.12 , 161.48 , 166.44 , -   , -   
+France,Edu,Current, 150.43 , 157.90 , 146.44 , 154.62 , 157.21 , 133.23 , 134.25 , -   , -   
+United Kingdom,Edu,Current, 142.83 , 150.15 , -   , 155.69 , 173.56 , 164.28 , 147.83 , -   , -   
+Indonesia,Edu,Current, 21.24 , 28.48 , 31.28 , 30.65 , 29.29 , 30.85 , -   , -   , -   
+India,Edu,Current, 56.60 , 69.21 , 70.68 , 71.38 , -   , -   , -   , -   , -   
+Italy,Edu,Current, 92.88 , 94.98 , 85.23 , 89.18 , 87.99 , 74.94 , 71.82 , -   , -   
+Japan,Edu,Current, 207.46 , 224.29 , 229.04 , 188.98 , 174.16 , -   , -   , -   , -   
+"Korea, Rep.",Edu,Current, -   , -   , -   , -   , -   , -   , -   , -   , -   
+Mexico,Edu,Current, 54.57 , 60.27 , 61.29 , 59.85 , 69.15 , 61.28 , 52.93 , -   , -   
+Russian Federation,Edu,Current, -   , -   , 83.76 , 86.28 , 82.51 , 52.27 , 48.02 , -   , -   
+Saudi Arabia,Edu,Current, -   , -   , -   , -   , -   , -   , -   , -   , -   
+Turkey,Edu,Current, -   , -   , -   , -   , -   , -   , -   , -   , -   
+United States,Edu,Current, -   , -   , -   , 827.67 , 869.38 , -   , -   , -   , -   
+South Africa,Edu,Current, 21.48 , 24.83 , 25.25 , 22.06 , 21.22 , 18.92 , 17.61 , 21.41 , 22.69 
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Edu,Percapita, 521.35 , 679.79 , 699.38 , 711.12 , 661.32 , 796.47 , 712.70 , 803.76 , -   
+Australia,Edu,Percapita," 2,892.00 "," 3,177.86 "," 3,317.39 "," 3,569.71 "," 3,234.11 "," 3,020.40 "," 2,638.63 ", -   , -   
+Brazil,Edu,Percapita, 637.54 , 759.96 , 724.28 , 718.20 , 720.52 , 550.09 , -   , -   , -   
+Canada,Edu,Percapita," 2,548.05 "," 2,748.08 ", -   , -   , -   , -   , -   , -   , -   
+China,Edu,Percapita, -   , -   , -   , -   , -   , -   , -   , -   , -   
+Germany,Edu,Percapita," 2,040.75 "," 2,242.59 "," 2,163.67 "," 2,284.19 "," 2,360.04 "," 1,976.83 "," 2,021.14 ", -   , -   
+France,Edu,Percapita," 2,313.34 "," 2,416.50 "," 2,230.30 "," 2,342.73 "," 2,370.66 "," 2,000.64 "," 2,008.01 ", -   , -   
+United Kingdom,Edu,Percapita," 2,275.63 "," 2,373.58 ", -   ," 2,427.78 "," 2,686.20 "," 2,522.32 "," 2,253.73 ", -   , -   
+Indonesia,Edu,Percapita, 87.81 , 116.19 , 125.88 , 121.73 , 114.80 , 119.39 , -   , -   , -   
+India,Edu,Percapita, 45.85 , 55.35 , 55.84 , 55.73 , -   , -   , -   , -   , -   
+Italy,Edu,Percapita," 1,566.88 "," 1,599.57 "," 1,431.55 "," 1,480.56 "," 1,447.46 "," 1,233.90 "," 1,184.68 ", -   , -   
+Japan,Edu,Percapita," 1,619.86 "," 1,754.56 "," 1,794.57 "," 1,482.81 "," 1,368.35 ", -   , -   , -   , -   
+"Korea, Rep.",Edu,Percapita, -   , -   , -   , -   , -   , -   , -   , -   , -   
+Mexico,Edu,Percapita, 478.33 , 520.95 , 522.65 , 503.66 , 574.58 , 502.89 , 429.13 , -   , -   
+Russian Federation,Edu,Percapita, -   , -   , 584.93 , 601.26 , 573.69 , 362.76 , 332.65 , -   , -   
+Saudi Arabia,Edu,Percapita, -   , -   , -   , -   , -   , -   , -   , -   , -   
+Turkey,Edu,Percapita, -   , -   , -   , -   , -   , -   , -   , -   , -   
+United States,Edu,Percapita, -   , -   , -   ," 2,618.73 "," 2,730.59 ", -   , -   , -   , -   
+South Africa,Edu,Percapita, 419.32 , 477.46 , 477.97 , 410.87 , 388.99 , 341.57 , 313.24 , 375.64 , 392.73 
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Edu,Change,,6.78,1.14,0.82,-1.79,6.14,-3.29,4.33,-35.40
+Australia,Edu,Change,,7.28,4.42,7.14,-6.64,-3.99,-8.10,-63.83,0.00
+Brazil,Edu,Change,,25.33,-5.76,0.04,1.71,-33.62,-112.48,0.00,0.00
+Canada,Edu,Change,,7.72,-94.37,0.00,0.00,0.00,0.00,0.00,0.00
+China,Edu,Change,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Germany,Edu,Change,,13.14,-6.01,10.19,6.91,-29.64,4.96,-166.44,0.00
+France,Edu,Change,,7.47,-11.46,8.18,2.60,-23.98,1.03,-134.25,0.00
+United Kingdom,Edu,Change,,7.32,-150.15,155.69,17.87,-9.29,-16.44,-147.83,0.00
+Indonesia,Edu,Change,,7.25,2.80,-0.62,-1.36,1.56,-30.85,0.00,0.00
+India,Edu,Change,,12.61,1.48,0.70,-71.38,0.00,0.00,0.00,0.00
+Italy,Edu,Change,,2.10,-9.75,3.95,-1.19,-13.05,-3.11,-71.82,0.00
+Japan,Edu,Change,,16.84,4.75,-40.06,-14.82,-174.16,0.00,0.00,0.00
+"Korea, Rep.",Edu,Change,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Mexico,Edu,Change,,5.70,1.02,-1.44,9.31,-7.87,-8.36,-52.93,0.00
+Russian Federation,Edu,Change,,0.00,83.76,2.52,-3.78,-30.24,-4.26,-48.02,0.00
+Saudi Arabia,Edu,Change,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+Turkey,Edu,Change,,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+United States,Edu,Change,,0.00,0.00,827.67,41.71,-869.38,0.00,0.00,0.00
+South Africa,Edu,Change,,3.35,0.42,-3.19,-0.84,-2.30,-1.31,3.81,1.28
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Edu,Percentchange,,31.90,4.06,2.82,-5.97,21.74,-9.57,13.95,-100.00
+Australia,Edu,Percentchange,,11.42,6.23,9.47,-8.04,-5.25,-11.26,-100.00,#DIV/0!
+Brazil,Edu,Percentchange,,20.30,-3.84,0.03,1.18,-23.01,-100.00,#DIV/0!,#DIV/0!
+Canada,Edu,Percentchange,,8.91,-100.00,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+China,Edu,Percentchange,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+Germany,Edu,Percentchange,,7.87,-3.34,5.86,3.75,-15.51,3.07,-100.00,#DIV/0!
+France,Edu,Percentchange,,4.97,-7.26,5.58,1.68,-15.26,0.77,-100.00,#DIV/0!
+United Kingdom,Edu,Percentchange,,5.12,-100.00,#DIV/0!,11.48,-5.35,-10.01,-100.00,#DIV/0!
+Indonesia,Edu,Percentchange,,34.12,9.82,-2.00,-4.44,5.32,-100.00,#DIV/0!,#DIV/0!
+India,Edu,Percentchange,,22.28,2.14,0.99,-100.00,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+Italy,Edu,Percentchange,,2.26,-10.26,4.63,-1.33,-14.84,-4.15,-100.00,#DIV/0!
+Japan,Edu,Percentchange,,8.12,2.12,-17.49,-7.84,-100.00,#DIV/0!,#DIV/0!,#DIV/0!
+"Korea, Rep.",Edu,Percentchange,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+Mexico,Edu,Percentchange,,10.44,1.69,-2.36,15.55,-11.38,-13.64,-100.00,#DIV/0!
+Russian Federation,Edu,Percentchange,,#DIV/0!,#DIV/0!,3.01,-4.38,-36.65,-8.14,-100.00,#DIV/0!
+Saudi Arabia,Edu,Percentchange,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+Turkey,Edu,Percentchange,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+United States,Edu,Percentchange,,#DIV/0!,#DIV/0!,#DIV/0!,5.04,-100.00,#DIV/0!,#DIV/0!,#DIV/0!
+South Africa,Edu,Percentchange,,15.61,1.70,-12.65,-3.81,-10.84,-6.94,21.62,5.98
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Military,PercentGDP,0.814878105,0.764287094,0.784824721,0.83773643,0.878100919,0.850128583,0.813140078,0.856137916,0.854560979
+Australia,Military,PercentGDP,1.862399774,1.769389864,1.679917358,1.649533076,1.781294955,1.958451254,2.092849524,2.007966393,1.891559767
+Brazil,Military,PercentGDP,1.539406981,1.411851159,1.378656465,1.329446109,1.330244423,1.365517154,1.350150573,1.419526638,1.474901547
+Canada,Military,PercentGDP,1.197153652,1.196084458,1.121099973,1.004858419,0.99227056,1.150126497,1.15845888,1.293395107,1.252629232
+China,Military,PercentGDP,1.907436663,1.834158275,1.83645176,1.866943786,1.905848105,1.907086486,1.924947124,1.896510407,1.865936601
+Germany,Military,PercentGDP,1.35365069,1.281112196,1.311261447,1.223993716,1.182505896,1.177456492,1.189904265,1.234141102,1.233768757
+France,Military,PercentGDP,2.33790694,2.257661284,2.236926011,2.220396951,2.230360063,2.26989054,2.327323645,2.349678514,2.293942799
+United Kingdom,Military,PercentGDP,2.36792473,2.287394211,2.185441954,2.065024666,1.948806997,1.859612024,1.810780168,1.771093843,1.782205381
+Indonesia,Military,PercentGDP,0.617587092,0.653776703,0.711549473,0.918769839,0.777855178,0.886971133,0.790694801,0.804336713,0.716442833
+India,Military,PercentGDP,2.707464042,2.651496681,2.537346604,2.472726714,2.496769881,2.40512747,2.506470751,2.509624558,2.419034342
+Italy,Military,PercentGDP,1.506820911,1.486135655,1.4367373,1.406128172,1.287382528,1.210619499,1.339605986,1.366528764,1.332702307
+Japan,Military,PercentGDP,0.958851325,0.986806293,0.967427083,0.950865861,0.966999334,0.958050431,0.939582603,0.930768157,0.923839536
+"Korea, Rep.",Military,PercentGDP,2.574250696,2.577345967,2.612982317,2.62798705,2.660766488,2.644758513,2.607881295,2.568843535,2.617343637
+Mexico,Military,PercentGDP,0.557495865,0.548195294,0.581036958,0.614983409,0.659120391,0.661709561,0.559230191,0.502372223,0.538883866
+Russian Federation,Military,PercentGDP,3.583859058,3.423447933,3.685968673,3.846232732,4.104182213,4.862758102,5.45240651,4.23340737,3.929511089
+Saudi Arabia,Military,PercentGDP,8.565677426,7.230053324,7.676602968,8.976127733,10.6779063,13.32567233,9.87273833,10.25135635,8.774719127
+Turkey,Military,PercentGDP,2.324125699,2.078543276,2.054760321,1.96325312,1.902457774,1.847055744,2.067542609,2.068141475,2.504356609
+United States,Military,PercentGDP,4.657000923,4.576704253,4.227818074,3.811198676,3.480897196,3.271831264,3.207892169,3.109010405,3.16286488
+South Africa,Military,PercentGDP,1.115808251,1.103257676,1.132793112,1.123274262,1.109437883,1.099182075,1.075529552,1.043663396,0.981709721
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Military,Current, 3.48 , 4.05 , 4.56 , 5.14 , 4.98 , 5.48 , 4.51 , 5.46 , 4.14 
+Australia,Military,Current, 23.22 , 26.60 , 26.22 , 24.83 , 25.78 , 24.05 , 26.38 , 27.69 , 26.71 
+Brazil,Military,Current, 34.00 , 36.94 , 33.99 , 32.87 , 32.66 , 24.62 , 24.22 , 29.28 , 27.77 
+Canada,Military,Current, 19.32 , 21.39 , 20.45 , 18.52 , 17.85 , 17.94 , 17.78 , 21.34 , 21.62 
+China,Military,Current, 115.71 , 137.97 , 157.39 , 179.88 , 200.77 , 214.09 , 216.03 , 227.83 , 250.00 
+Germany,Military,Current, 46.26 , 48.14 , 46.47 , 45.93 , 46.10 , 39.81 , 41.58 , 45.38 , 49.47 
+France,Military,Current, 61.78 , 64.60 , 60.04 , 62.42 , 63.61 , 55.34 , 57.36 , 60.42 , 63.80 
+United Kingdom,Military,Current, 58.08 , 60.27 , 58.50 , 56.86 , 59.18 , 53.86 , 48.12 , 46.43 , 50.00 
+Indonesia,Military,Current, 4.66 , 5.84 , 6.53 , 8.38 , 6.93 , 7.64 , 7.39 , 8.18 , 7.44 
+India,Military,Current, 46.09 , 49.63 , 47.22 , 47.40 , 50.91 , 51.30 , 56.64 , 64.56 , 66.51 
+Italy,Military,Current, 32.02 , 33.83 , 29.78 , 29.96 , 27.70 , 22.18 , 25.03 , 26.45 , 27.81 
+Japan,Military,Current, 54.66 , 60.76 , 60.01 , 49.02 , 46.88 , 42.11 , 46.47 , 45.39 , 46.62 
+"Korea, Rep.",Military,Current, 28.18 , 30.99 , 31.95 , 34.31 , 37.55 , 36.57 , 36.89 , 39.17 , 43.07 
+Mexico,Military,Current, 5.90 , 6.47 , 6.98 , 7.84 , 8.66 , 7.74 , 6.02 , 5.78 , 6.57 
+Russian Federation,Military,Current, 58.72 , 70.24 , 81.47 , 88.35 , 84.70 , 66.42 , 69.25 , 66.53 , 61.39 
+Saudi Arabia,Military,Current, 45.24 , 48.53 , 56.50 , 67.02 , 80.76 , 87.19 , 63.67 , 70.40 , 67.55 
+Turkey,Military,Current, 17.94 , 17.30 , 17.96 , 18.66 , 17.77 , 15.88 , 17.85 , 17.82 , 18.97 
+United States,Military,Current, 698.18 , 711.34 , 684.78 , 639.70 , 609.91 , 596.10 , 600.11 , 605.80 , 648.80 
+South Africa,Military,Current, 4.19 , 4.59 , 4.49 , 4.12 , 3.89 , 3.49 , 3.17 , 3.64 , 3.64 
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+Australia,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+Brazil,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+Canada,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+China,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+Germany,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+France,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+United Kingdom,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+Indonesia,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+India,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+Italy,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+Japan,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+"Korea, Rep.",Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+Mexico,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+Russian Federation,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+Saudi Arabia,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+Turkey,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+United States,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+South Africa,Military,Percapita, 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 , 0.00 
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Military,Change,,0.58,0.51,0.57,-0.16,0.50,-0.97,0.95,-1.31
+Australia,Military,Change,,3.38,-0.38,-1.39,0.96,-1.74,2.34,1.31,-0.98
+Brazil,Military,Change,,2.93,-2.95,-1.11,-0.22,-8.04,-0.39,5.06,-1.52
+Canada,Military,Change,,2.08,-0.94,-1.94,-0.66,0.08,-0.15,3.56,0.28
+China,Military,Change,,22.26,19.42,22.49,20.89,13.32,1.94,11.80,22.17
+Germany,Military,Change,,1.88,-1.67,-0.54,0.17,-6.29,1.77,3.80,4.09
+France,Military,Change,,2.82,-4.57,2.38,1.20,-8.27,2.02,3.06,3.38
+United Kingdom,Military,Change,,2.19,-1.77,-1.63,2.32,-5.32,-5.74,-1.69,3.56
+Indonesia,Military,Change,,1.17,0.69,1.85,-1.45,0.71,-0.25,0.79,-0.74
+India,Military,Change,,3.54,-2.42,0.19,3.51,0.38,5.34,7.92,1.95
+Italy,Military,Change,,1.81,-4.05,0.18,-2.26,-5.52,2.85,1.41,1.36
+Japan,Military,Change,,6.11,-0.75,-10.99,-2.14,-4.78,4.37,-1.08,1.23
+"Korea, Rep.",Military,Change,,2.82,0.96,2.36,3.24,-0.98,0.31,2.29,3.90
+Mexico,Military,Change,,0.57,0.51,0.86,0.83,-0.92,-1.72,-0.24,0.79
+Russian Federation,Military,Change,,11.52,11.23,6.88,-3.66,-18.28,2.83,-2.72,-5.14
+Saudi Arabia,Military,Change,,3.29,7.97,10.52,13.74,6.42,-23.51,6.73,-2.85
+Turkey,Military,Change,,-0.63,0.65,0.70,-0.89,-1.89,1.97,-0.03,1.14
+United States,Military,Change,,13.16,-26.56,-45.08,-29.79,-13.81,4.00,5.70,43.00
+South Africa,Military,Change,,0.41,-0.10,-0.37,-0.23,-0.40,-0.32,0.47,0.00
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Military,Percentchange,,16.59,12.62,12.60,-3.09,10.11,-17.75,21.07,-24.08
+Australia,Military,Percentchange,,14.56,-1.43,-5.31,3.86,-6.74,9.72,4.96,-3.54
+Brazil,Military,Percentchange,,8.63,-7.98,-3.27,-0.65,-24.62,-1.60,20.88,-5.18
+Canada,Military,Percentchange,,10.76,-4.40,-9.47,-3.58,0.47,-0.86,20.02,1.30
+China,Military,Percentchange,,19.23,14.08,14.29,11.61,6.63,0.91,5.46,9.73
+Germany,Military,Percentchange,,4.07,-3.47,-1.16,0.37,-13.64,4.44,9.14,9.01
+France,Military,Percentchange,,4.56,-7.07,3.97,1.92,-13.00,3.64,5.33,5.60
+United Kingdom,Military,Percentchange,,3.77,-2.94,-2.79,4.08,-8.99,-10.66,-3.50,7.68
+Indonesia,Military,Percentchange,,25.19,11.87,28.37,-17.35,10.24,-3.32,10.73,-9.06
+India,Military,Percentchange,,7.69,-4.87,0.40,7.41,0.75,10.41,13.99,3.02
+Italy,Military,Percentchange,,5.65,-11.97,0.59,-7.53,-19.93,12.86,5.65,5.14
+Japan,Military,Percentchange,,11.17,-1.24,-18.31,-4.37,-10.19,10.37,-2.33,2.71
+"Korea, Rep.",Military,Percentchange,,10.00,3.10,7.38,9.45,-2.61,0.86,6.20,9.95
+Mexico,Military,Percentchange,,9.74,7.84,12.31,10.54,-10.66,-22.22,-3.96,13.60
+Russian Federation,Military,Percentchange,,19.61,15.99,8.45,-4.14,-21.58,4.26,-3.93,-7.73
+Saudi Arabia,Military,Percentchange,,7.26,16.42,18.62,20.50,7.95,-26.97,10.57,-4.04
+Turkey,Military,Percentchange,,-3.54,3.78,3.92,-4.77,-10.64,12.42,-0.17,6.41
+United States,Military,Percentchange,,1.88,-3.73,-6.58,-4.66,-2.26,0.67,0.95,7.10
+South Africa,Military,Percentchange,,9.69,-2.28,-8.27,-5.48,-10.37,-9.15,14.80,0.03
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Healthcare,PercentGDP,8.61198493,8.39473866,8.40588238,8.37804641,8.23722377,8.74331517,7.54838404,,
+Australia,Healthcare,PercentGDP,8.44516726,8.55670577,8.68936294,8.77363922,9.05467885,9.33006717,9.25209201,,
+Brazil,Healthcare,PercentGDP,9.723471,9.7830923,10.03918369,10.23850921,10.81982148,11.4647339,11.77150303,,
+Canada,Healthcare,PercentGDP,10.55578315,10.23029303,10.24045785,10.13275665,9.96972621,10.37650812,10.53465477,,
+China,Healthcare,PercentGDP,4.20799171,4.32551324,4.549399,4.71002249,4.77322745,4.88872272,4.98188075,,
+Germany,Healthcare,PercentGDP,11.0039689,10.71509959,10.76729532,10.91510275,10.95738405,11.07906625,11.13916763,,
+France,Healthcare,PercentGDP,11.17922993,11.1942851,11.3208963,11.44199369,11.59500673,11.50136047,11.53929503,,
+United Kingdom,Healthcare,PercentGDP,8.47407792,8.42210613,8.33916884,9.77234704,9.72392342,9.79273451,9.7623484,,
+Indonesia,Healthcare,PercentGDP,2.96089979,2.95542027,2.90286671,2.96065055,3.11712106,3.0053613,3.12449094,,
+India,Healthcare,PercentGDP,3.27211934,3.24634215,3.32935296,3.74944184,3.61956552,3.59770551,3.65833057,,
+Italy,Healthcare,PercentGDP,8.95361182,8.83464291,8.95606116,8.95226727,9.01144092,8.98541669,8.93549301,,
+Japan,Healthcare,PercentGDP,9.15677291,10.61671765,10.79065328,10.79159414,10.83205006,10.87187938,10.92612327,,
+"Korea, Rep.",Healthcare,PercentGDP,6.24060133,6.30238059,6.43717494,6.57805915,6.82039351,7.04921624,7.33752488,,
+Mexico,Healthcare,PercentGDP,5.75136576,5.52097397,5.66298734,5.81035295,5.53723009,5.65276786,5.46900124,,
+Russian Federation,Healthcare,PercentGDP,4.95722385,4.78151205,4.93199479,5.07075241,5.17099307,5.27700319,5.27112755,,
+Saudi Arabia,Healthcare,PercentGDP,3.65752606,3.71178311,4.01962965,4.46568786,5.22794726,5.99834034,5.74181331,,
+Turkey,Healthcare,PercentGDP,5.053656,4.68789031,4.47785046,4.40411751,4.34726586,4.13853307,4.3143198,,
+United States,Healthcare,PercentGDP,16.41288147,16.36738026,16.36637753,16.33083781,16.50510561,16.81565916,17.07341533,,
+South Africa,Healthcare,PercentGDP,7.41535412,7.49731726,7.7525506,7.72096153,7.93015013,8.19779026,8.1098146,,
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Healthcare,Current, 36.48 , 44.51 , 45.89 , 46.25 , 43.35 , 52.00 , 42.08 ,,
+Australia,Healthcare,Current, 96.79 , 119.51 , 134.35 , 138.29 , 132.88 , 126.11 , 111.84 ,,
+Brazil,Healthcare,Current, 214.78 , 255.95 , 247.48 , 253.18 , 265.73 , 206.62 , 211.45 ,,
+Canada,Healthcare,Current, 170.32 , 183.03 , 186.78 , 186.65 , 179.60 , 161.14 , 160.83 ,,
+China,Healthcare,Current, 256.15 , 326.64 , 388.17 , 450.77 , 498.25 , 538.52 , 554.88 ,,
+Germany,Healthcare,Current, 373.73 , 401.22 , 379.80 , 407.43 , 425.58 , 372.32 , 386.17 ,,
+France,Healthcare,Current, 295.42 , 320.31 , 303.83 , 321.64 , 330.71 , 280.43 , 285.17 ,,
+United Kingdom,Healthcare,Current, 209.75 , 223.97 , 225.57 , 272.26 , 297.92 , 286.79 , 263.03 ,,
+Indonesia,Healthcare,Current, 22.36 , 26.39 , 26.64 , 27.02 , 27.77 , 25.87 , 29.12 ,,
+India,Healthcare,Current, 54.83 , 59.18 , 60.85 , 69.62 , 73.81 , 75.68 , 83.79 ,,
+Italy,Healthcare,Current, 191.07 , 202.49 , 186.92 , 191.70 , 194.57 , 164.96 , 167.59 ,,
+Japan,Healthcare,Current, 521.95 , 653.72 , 669.37 , 556.38 , 525.40 , 477.22 , 538.29 ,,
+"Korea, Rep.",Healthcare,Current, 68.30 , 75.78 , 78.71 , 85.88 , 96.26 , 97.47 , 103.81 ,,
+Mexico,Healthcare,Current, 60.84 , 65.17 , 68.02 , 74.05 , 72.79 , 66.17 , 58.95 ,,
+Russian Federation,Healthcare,Current, 75.59 , 98.10 , 109.01 , 116.48 , 106.52 , 71.96 , 67.61 ,,
+Saudi Arabia,Healthcare,Current, 19.32 , 24.91 , 29.58 , 33.34 , 39.54 , 39.25 , 37.03 ,,
+Turkey,Healthcare,Current, 39.01 , 39.03 , 39.14 , 41.86 , 40.61 , 35.58 , 37.26 ,,
+United States,Healthcare,Current," 2,460.63 "," 2,543.91 "," 2,650.86 "," 2,741.11 "," 2,891.98 "," 3,063.69 "," 3,193.96 ",,
+South Africa,Healthcare,Current, 27.83 , 31.22 , 30.73 , 28.32 , 27.83 , 26.04 , 24.03 ,,
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Healthcare,Percapita, 894.44 ," 1,078.63 "," 1,099.71 "," 1,095.87 "," 1,016.04 "," 1,205.62 ", 965.46 ,,
+Australia,Healthcare,Percapita," 4,393.36 "," 5,349.47 "," 5,909.82 "," 5,979.24 "," 5,660.15 "," 5,295.35 "," 4,623.38 ",,
+Brazil,Healthcare,Percapita," 1,097.41 "," 1,295.83 "," 1,241.85 "," 1,259.37 "," 1,310.56 "," 1,010.50 "," 1,025.64 ",,
+Canada,Healthcare,Percapita," 5,008.75 "," 5,330.17 "," 5,380.58 "," 5,320.17 "," 5,068.16 "," 4,513.27 "," 4,454.04 ",,
+China,Healthcare,Percapita, 191.48 , 243.01 , 287.38 , 332.09 , 365.22 , 392.73 , 402.48 ,,
+Germany,Healthcare,Percapita," 4,570.16 "," 4,998.03 "," 4,722.36 "," 5,052.14 "," 5,255.16 "," 4,557.88 "," 4,689.47 ",,
+France,Healthcare,Percapita," 4,543.05 "," 4,902.06 "," 4,627.38 "," 4,873.48 "," 4,986.86 "," 4,211.04 "," 4,265.18 ",,
+United Kingdom,Healthcare,Percapita," 3,341.82 "," 3,540.53 "," 3,541.04 "," 4,245.55 "," 4,610.85 "," 4,403.41 "," 4,009.80 ",,
+Indonesia,Healthcare,Percapita, 92.45 , 107.67 , 107.24 , 107.29 , 108.84 , 100.13 , 111.32 ,,
+India,Healthcare,Percapita, 44.42 , 47.34 , 48.07 , 54.35 , 56.97 , 57.76 , 63.26 ,,
+Italy,Healthcare,Percapita," 3,223.35 "," 3,410.09 "," 3,139.42 "," 3,182.53 "," 3,200.72 "," 2,716.31 "," 2,764.30 ",,
+Japan,Healthcare,Percapita," 4,075.47 "," 5,113.86 "," 5,244.63 "," 4,365.68 "," 4,128.03 "," 3,753.46 "," 4,238.72 ",,
+"Korea, Rep.",Healthcare,Percapita," 1,378.36 "," 1,517.60 "," 1,568.02 "," 1,703.06 "," 1,896.84 "," 1,910.70 "," 2,025.76 ",,
+Mexico,Healthcare,Percapita, 533.23 , 563.33 , 579.99 , 623.17 , 604.80 , 543.00 , 477.98 ,,
+Russian Federation,Healthcare,Percapita, 529.18 , 686.20 , 761.23 , 811.68 , 740.66 , 499.36 , 468.43 ,,
+Saudi Arabia,Healthcare,Percapita, 704.53 , 881.39 ," 1,014.69 "," 1,109.49 "," 1,278.96 "," 1,237.33 "," 1,141.43 ",,
+Turkey,Healthcare,Percapita, 539.35 , 531.40 , 524.23 , 551.37 , 525.84 , 453.12 , 466.84 ,,
+United States,Healthcare,Percapita," 7,954.80 "," 8,164.56 "," 8,445.62 "," 8,672.80 "," 9,083.25 "," 9,551.88 "," 9,886.22 ",,
+South Africa,Healthcare,Percapita, 543.44 , 600.34 , 581.56 , 527.53 , 510.16 , 470.11 , 427.62 ,,
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Healthcare,Change,,8.02,1.39,0.35,-2.89,8.65,-9.92,,
+Australia,Healthcare,Change,,22.71,14.84,3.94,-5.41,-6.76,-14.27,,
+Brazil,Healthcare,Change,,41.17,-8.46,5.69,12.56,-59.12,4.83,,
+Canada,Healthcare,Change,,12.71,3.75,-0.14,-7.04,-18.47,-0.30,,
+China,Healthcare,Change,,70.49,61.52,62.60,47.49,40.26,16.36,,
+Germany,Healthcare,Change,,27.48,-21.42,27.63,18.14,-53.26,13.85,,
+France,Healthcare,Change,,24.89,-16.48,17.81,9.07,-50.28,4.74,,
+United Kingdom,Healthcare,Change,,14.22,1.60,46.69,25.66,-11.13,-23.76,,
+Indonesia,Healthcare,Change,,4.03,0.25,0.37,0.75,-1.90,3.24,,
+India,Healthcare,Change,,4.35,1.67,8.77,4.19,1.87,8.11,,
+Italy,Healthcare,Change,,11.42,-15.57,4.78,2.87,-29.61,2.63,,
+Japan,Healthcare,Change,,131.78,15.65,-112.98,-30.98,-48.18,61.08,,
+"Korea, Rep.",Healthcare,Change,,7.48,2.93,7.17,10.38,1.22,6.34,,
+Mexico,Healthcare,Change,,4.34,2.84,6.03,-1.26,-6.62,-7.22,,
+Russian Federation,Healthcare,Change,,22.51,10.91,7.47,-9.96,-34.56,-4.34,,
+Saudi Arabia,Healthcare,Change,,5.60,4.67,3.76,6.20,-0.30,-2.21,,
+Turkey,Healthcare,Change,,0.02,0.11,2.73,-1.25,-5.03,1.68,,
+United States,Healthcare,Change,,83.29,106.95,90.24,150.88,171.71,130.26,,
+South Africa,Healthcare,Change,,3.39,-0.49,-2.40,-0.50,-1.79,-2.00,,
+Country Name,Spending,Unit,2010,2011,2012,2013,2014,2015,2016,2017,2018
+Argentina,Healthcare,Percentchange,,21.99,3.12,0.77,-6.26,19.94,-19.07,,
+Australia,Healthcare,Percentchange,,23.47,12.42,2.93,-3.91,-5.09,-11.32,,
+Brazil,Healthcare,Percentchange,,19.17,-3.31,2.30,4.96,-22.25,2.34,,
+Canada,Healthcare,Percentchange,,7.46,2.05,-0.07,-3.77,-10.28,-0.19,,
+China,Healthcare,Percentchange,,27.52,18.84,16.13,10.53,8.08,3.04,,
+Germany,Healthcare,Percentchange,,7.35,-5.34,7.28,4.45,-12.51,3.72,,
+France,Healthcare,Percentchange,,8.43,-5.15,5.86,2.82,-15.20,1.69,,
+United Kingdom,Healthcare,Percentchange,,6.78,0.71,20.70,9.43,-3.74,-8.29,,
+Indonesia,Healthcare,Percentchange,,18.04,0.96,1.40,2.78,-6.83,12.54,,
+India,Healthcare,Percentchange,,7.94,2.82,14.41,6.02,2.54,10.72,,
+Italy,Healthcare,Percentchange,,5.98,-7.69,2.56,1.50,-15.22,1.59,,
+Japan,Healthcare,Percentchange,,25.25,2.39,-16.88,-5.57,-9.17,12.80,,
+"Korea, Rep.",Healthcare,Percentchange,,10.95,3.87,9.11,12.08,1.26,6.50,,
+Mexico,Healthcare,Percentchange,,7.13,4.36,8.87,-1.70,-9.10,-10.91,,
+Russian Federation,Healthcare,Percentchange,,29.77,11.12,6.85,-8.55,-32.45,-6.04,,
+Saudi Arabia,Healthcare,Percentchange,,28.96,18.74,12.71,18.59,-0.75,-5.64,,
+Turkey,Healthcare,Percentchange,,0.05,0.28,6.97,-2.99,-12.38,4.72,,
+United States,Healthcare,Percentchange,,3.38,4.20,3.40,5.50,5.94,4.25,,
+South Africa,Healthcare,Percentchange,,12.17,-1.58,-7.82,-1.75,-6.43,-7.70,,
